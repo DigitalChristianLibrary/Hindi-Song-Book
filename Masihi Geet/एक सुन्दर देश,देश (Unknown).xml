@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2018-01-29T05:48:19">
+  <properties>
+    <titles>
+      <title>एक सुन्दर देश,देश</title>
+      <title>Ek sundar desh desh</title>
+    </titles>
+    <authors>
+      <author>Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="Hindi Song Book"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="c1">
+      <lines>एक सुन्द र देश, देश<br/>कितना पवित्र देश, देश<br/>यीशु सजाएगा, जाएगा<br/>एक शाश्रत भवन, भवन<br/></lines>
+    </verse>
+    <verse name="v1">
+      <lines>वहां मैं रहूँगा,<br/> नित्यर नित्य  युग में<br/> वहां मैं सुनूंगा,<br/> हाल्लेैलूयाह गीत<br/></lines>
+    </verse>
+    <verse name="v2">
+      <lines>उस दिन मैं गाऊंगा,<br/> खुशी के साथ गाऊंगा,<br/> उस दिन मैं नाचूंगा, <br/> खुशी के साथ नाचूंगा<br/><br/></lines>
+    </verse>
+    <verse name="v3">
+      <lines>वहां मैं पाऊंगा<br/> बरकत की बारिश<br/> वहां मैं पाऊंगा<br/> धर्म का मुकुट   <br/>   <br/></lines>
+    </verse>
+  </lyrics>
+</song>

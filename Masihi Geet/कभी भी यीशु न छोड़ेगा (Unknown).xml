@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2018-01-29T05:56:02">
+  <properties>
+    <titles>
+      <title>कभी भी यीशु न छोड़ेगा</title>
+      <title>Kabhi bhi yishu na Chodega</title>
+    </titles>
+    <authors>
+      <author>Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="Hindi Song Book"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="c1">
+      <lines> कभी भी यीशु न छोड़ेगा<br/>कभी भी यीशु न त्यागेगा <br/>कभी भी यीशु के लोग<br/>लज्जिीत नहीं होंगे-2<br/></lines>
+    </verse>
+    <verse name="v1">
+      <lines>जन्माेने वाली माता<br/>हमें भूल सकती हैं<br/>अपने सगे लोग<br/>हमें छोड़ सकते हैं<br/>पर मैं तो जगत के अन्तू तक-2<br/>सदा तेरे साथ रहूँगा यीशु ने कहा-2<br/><br/></lines>
+    </verse>
+    <verse name="v2">
+      <lines>अपनी हथेली में चेहरा तेरा-2<br/>मैंने खोद रखा है कभी न भूलूंगा -2<br/>अपनी आँखों के पुतली समान-2<br/>रखता हूँ मैं तेरा पूरा ध्यानन-2 कभी...<br/><br/></lines>
+    </verse>
+  </lyrics>
+</song>

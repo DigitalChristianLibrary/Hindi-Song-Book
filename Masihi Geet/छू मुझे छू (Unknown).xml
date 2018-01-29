@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2018-01-29T06:54:22">
+  <properties>
+    <titles>
+      <title>छू मुझे छू</title>
+      <title>Chhoo mujhe chhoo</title>
+    </titles>
+    <authors>
+      <author>Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="Hindi Song Book"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="c1">
+      <lines>छू मुझे छू,<br/>खुदा रूह मुझे छू,<br/>छू मुझे छू,<br/>खुदा रूह मुझे छू,<br/>मेरे मन को मेरे तन को<br/>मेरे प्राण, आत्मा  को,<br/>मेरे मन को मेरे तन को,<br/>मेरे प्राण, आत्मा  को<br/></lines>
+    </verse>
+  </lyrics>
+</song>

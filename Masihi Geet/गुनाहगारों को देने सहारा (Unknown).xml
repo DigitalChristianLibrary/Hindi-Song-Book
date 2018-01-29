@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2018-01-29T06:33:00">
+  <properties>
+    <titles>
+      <title>गुनाहगारों को देने सहारा</title>
+      <title>Gunehgaro ko dene sahara</title>
+    </titles>
+    <authors>
+      <author>Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="Hindi Song Book"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="c1">
+      <lines>गुनाहगारों को देने सहारा<br/>आया चरनी में तारणहारा (2)<br/></lines>
+    </verse>
+    <verse name="v1">
+      <lines>मैदानों में दूतों ने गाया<br/>पैग़ाम खुशी का सुनाया<br/>मरियम की आँखों का तारा<br/>आया चरनी में राजदुलारा (2)<br/></lines>
+    </verse>
+    <verse name="v2">
+      <lines>मैदान में करते रखवाली<br/>चमकी रौशनी खूब निराली<br/>आया दुनिया में यीशु जलाली<br/>यह शुभ सन्देेश आया (2)<br/></lines>
+    </verse>
+    <verse name="v3">
+      <lines>हम भी आकर नज़राने चढ़ाएं<br/>दिल के दाग मसीह को दिखाए<br/>भूखे प्याससों का वह ही सहारा<br/>आया चरनी में तारणहारा (2)<br/></lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2018-01-29T10:06:55">
+  <properties>
+    <titles>
+      <title>तू पवित्र -पवित्र है</title>
+      <title>Tu pavitr-pavitr hai</title>
+    </titles>
+    <authors>
+      <author>Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="Hindi Song Book"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="c1">
+      <lines>तू पवित्र - पवित्र है<br/>तू पवित्र - पवित्र है<br/>तू सच्चार है प्रभु तू झूठा नहीं है<br/>तू पवित्र - पवित्र है (2)<br/></lines>
+    </verse>
+    <verse name="v1">
+      <lines>तू सामर्थ्य है योग्य् है<br/>तू स्वर्गो के स्वतर्ग में है<br/>तू सच्चाग है प्रभु तू झूठा नही है<br/>तू पवित्र - पवित्र है<br/></lines>
+    </verse>
+    <verse name="v2">
+      <lines>तू करुणा निधान है प्रभु<br/>तू अत्यान्तन महान है प्रभु<br/>तू सच्चार है प्रभु तू झूठा नही है<br/>तू पवित्र - पवित्र है<br/>तू पवित्र - पवित्र है<br/></lines>
+    </verse>
+    <verse name="v3">
+      <lines>तू अधर्मो को क्षमा करता है<br/>सारे रोगों को चंगा करता है   <br/>तू सच्चाो है प्रभु तू झूठा नही है<br/>तू पवित्र - पवित्र है<br/>तू पवित्र - पवित्र है<br/></lines>
+    </verse>
+  </lyrics>
+</song>

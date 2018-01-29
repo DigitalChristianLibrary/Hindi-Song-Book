@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2018-01-28T07:21:15">
+  <properties>
+    <titles>
+      <title>आनंद है आनंद है</title>
+      <title>Anand hai Anand hai</title>
+    </titles>
+    <authors>
+      <author>Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="Hindi Song Book"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="c1">
+      <lines>आनन्दर आनन्दौ आनन्दन है<br/>अब्दीर मोहब्बत से हमसे प्रेम किया<br/>अपना बेटा हमें बना लिया<br/>यह हमारा सौभाग्य है<br/><br/>				हल्लेलुयाह सदा गायेंगे<br/>हम प्रभु यीशु के लिये	<br/><br/><br/></lines>
+    </verse>
+    <verse name="v1">
+      <lines>आनन्दर आनन्दौ आनन्दे है<br/>आनन्दर के तेल से मस्साै किया है<br/>पवित्र स्थाकन में दाखिल किया<br/>यह हमारा सौभाग्यल है<br/></lines>
+    </verse>
+    <verse name="v2">
+      <lines>आनन्दो आनन्द् आनन्दै है<br/>प्रभु की स्तुदति करना आनन्दै है<br/>प्रभु की सेवा करेंगे सदा<br/>यह हमारा सौभाग्यल है<br/>	<br/><br/></lines>
+    </verse>
+    <verse name="v3">
+      <lines>आनन्दन आनन्दौ आनन्दन है<br/>प्रभु के आगमन की खुशी है<br/>ले जायेगा हमें ललकार के साथ<br/>यह हमारा सौभाग्यं है<br/><br/></lines>
+    </verse>
+    <verse name="v4">
+      <lines>आनन्दि आनन्दौ आनन्दन है<br/> सिय्योंन के जलाल में वास करेंगे <br/>बाप के दाहिने बैठ जायेंगे 	<br/>यह हमारा सौभाग्यल है  <br/><br/></lines>
+    </verse>
+  </lyrics>
+</song>

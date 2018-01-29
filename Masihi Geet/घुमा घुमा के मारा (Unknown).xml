@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2018-01-29T06:35:29">
+  <properties>
+    <titles>
+      <title>घुमा घुमा के मारा</title>
+      <title>Ghuma Ghuma ke mara</title>
+    </titles>
+    <authors>
+      <author>Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="Hindi Song Book"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="c1">
+      <lines>घुमा घुमा के मारा<br/>दाऊद ने गोलीयत को<br/>गोफन से है मारा<br/></lines>
+    </verse>
+    <verse name="v1">
+      <lines>एक से नहीं दो से नही<br/>तीन से नहीं चार से नहीं<br/>पाँच पत्थीर नाले से लिये<br/>और एक पत्थंर से मारा<br/></lines>
+    </verse>
+  </lyrics>
+</song>

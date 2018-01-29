@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2018-01-28T07:22:13">
+  <properties>
+    <titles>
+      <title>आगे बढूंगा मै विश्वास से</title>
+      <title>Aage badhunga mai Vishwas se</title>
+    </titles>
+    <authors>
+      <author>Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="Hindi Song Book"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="c1">
+      <lines>आगे बढूंगा मै विश्वास से <br/>सब कुछ करुंगा मै विश्वा.स से<br/>कुछ भी असंभव नही है मेरे लिए<br/>जय है सदा मुझ को<br/>मै पीछे नही हटूं<br/>विश्वाकस के कदमा से <br/>आगे ही आगे बढूं<br/>कोई विरोध करे, कुछ भी होता रहे<br/>पीछे नही हटूंगा<br/></lines>
+    </verse>
+    <verse name="v1">
+      <lines>न डरुंगा किसी हानि से मै<br/>न डरुंगा पराजय से <br/>शत्रु जय पायेगा भाग्य. नाश होवेगा<br/>ऐसे मै न डरुंगा.... मै पीछे<br/></lines>
+    </verse>
+    <verse name="v2">
+      <lines>रोगों से या श्रापों से <br/>पापों के भी अधीन नही हूँ<br/>श्राप के बंधनों पर शैतान की शक्तिरयों पर<br/>जय है सदा मुझ को.... मै पीछे<br/></lines>
+    </verse>
+  </lyrics>
+</song>

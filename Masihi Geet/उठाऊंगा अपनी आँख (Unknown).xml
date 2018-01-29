@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2018-01-29T05:42:24">
+  <properties>
+    <titles>
+      <title>उठाऊंगा अपनी आँख</title>
+      <title>Uthaoonga apni aankh</title>
+    </titles>
+    <authors>
+      <author>Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="Hindi Song Book"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="c1">
+      <lines>उठाऊँगा अपनी आँख<br/>यहोवा पर जो है मेरा बल<br/>वह ही मेरा सहारा है<br/>वही ही मेरा चरवाहा  है  (2)<br/></lines>
+    </verse>
+    <verse name="v1">
+      <lines>स्वर्ग सेना करते स्तुति <br/>राज करता है स्वार्ग सिय्योंन ....(2)<br/>प्रेमी प्रभु गाऊंगा मै<br/>तेरी स्तुति सदा सर्वदा़़़....(<br/></lines>
+    </verse>
+    <verse name="v2">
+      <lines>इस्राएल का तारणहार<br/>न ऊंगेगा न सोयेगा<br/>यहोवा मेरा रक्षक है<br/>कोई घटी न होगी मुझे....(2)<br/></lines>
+    </verse>
+    <verse name="v3">
+      <lines>हल्लेलुयाह हल्लेलुयाह<br/>गाऊंगा मै स्वयर्ग सिय्योंन....(2)<br/>हालेलुयाह गाते सदा रहुंगा मै<br/>सिय्योंन देश में ....(2)<br/></lines>
+    </verse>
+  </lyrics>
+</song>

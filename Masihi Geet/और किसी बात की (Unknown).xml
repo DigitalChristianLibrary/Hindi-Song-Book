@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2018-01-29T05:52:14">
+  <properties>
+    <titles>
+      <title>और किसी बात की</title>
+      <title>Or kisi baat ki</title>
+    </titles>
+    <authors>
+      <author>Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="Hindi Song Book"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="c1">
+      <lines>और किसी बात की बढ़ाई न करो <br/>यीशु मसीह की सलीब की सिवाए </lines>
+    </verse>
+    <verse name="v1">
+      <lines>यीशु ने कहा जीवन की रोटी<br/>जीवन की रोटी मै ही हुँ (2)..और किसी <br/><br/></lines>
+    </verse>
+    <verse name="v2">
+      <lines>यीशु ने कहा सच्चाै गरड़िया<br/>सच्चा  गरड़िया मै ही हुँ (2)..और किसी <br/><br/></lines>
+    </verse>
+    <verse name="v3">
+      <lines>यीशु ने कहा मार्ग और फाटक <br/>मार्ग और फाटक मै ही हुँ (2)..और किसी <br/><br/></lines>
+    </verse>
+    <verse name="v4">
+      <lines>यीशु ने कहा जगत का उजाला<br/>जगत का उजाला मै ही हुँ (2)..और किसी <br/>	<br/></lines>
+    </verse>
+    <verse name="v5">
+      <lines>यीशु ने कहा मौत से जिलाता<br/>जीवन भी देता मै ही हुँ (2)..और किसी <br/></lines>
+    </verse>
+  </lyrics>
+</song>

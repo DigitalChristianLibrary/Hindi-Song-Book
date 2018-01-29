@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2018-01-29T06:10:54">
+  <properties>
+    <titles>
+      <title>कौन जायेगा,कौन मेरे लिए</title>
+      <title>Kaun jayega,mere Liye</title>
+    </titles>
+    <authors>
+      <author>Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="Hindi Song Book"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="c1">
+      <lines>कौन जाएगा, कौन मेरे लिए-2<br/>प्रभु तू मुझको भेज मैं जाऊँगा-2<br/></lines>
+    </verse>
+    <verse name="v1">
+      <lines>. खेत पक चुके है मज़दूर तो थोड़े हैं<br/>चरवाहे बिन ये मेरी भेडे़<br/>भटक रही अनजान<br/>कौन जायेगा-3 कौन<br/><br/></lines>
+    </verse>
+    <verse name="v2">
+      <lines>बगैर कोई जाए वहाँ<br/>वे कैसे लाये ईमान-2<br/>बगैर लिए मेरा नाम<br/>वे कैसे पाये नज़ात<br/>कौन जायेगा- 2 कौन<br/></lines>
+    </verse>
+    <verse name="v3">
+      <lines>हे भारत के विश्वाेसियों<br/>क्याज तुम जाओगे-2<br/>हज़ारों लोगों को<br/>उसका वचन सुनाओगे<br/>कौन जायेगा<br/></lines>
+    </verse>
+  </lyrics>
+</song>

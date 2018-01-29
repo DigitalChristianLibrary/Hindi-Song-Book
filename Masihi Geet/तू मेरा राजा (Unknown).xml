@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2018-01-29T10:08:42">
+  <properties>
+    <titles>
+      <title>तू मेरा राजा</title>
+      <title>Tu mera Raja</title>
+    </titles>
+    <authors>
+      <author>Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="Hindi Song Book"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="c1">
+      <lines>तू मेरा राजा, तू मेरा राजा<br/>मेरा राजा यीशु की जय (2)<br/><br/>ओ हालेलूयाह..ओ हालेलूयाह<br/>हालेलूयाह... यीशू की जय<br/></lines>
+    </verse>
+    <verse name="v1">
+      <lines>तू मेरा हमदम, तू मेरा हमदम<br/>मेरा हमदम, यीशू की जय (2) <br/></lines>
+    </verse>
+    <verse name="v2">
+      <lines>तू मेरा सब कुछ, तू मेरा सब कुछ <br/>मेरा सब कुछ, यीशू की जय (2)<br/></lines>
+    </verse>
+    <verse name="v3">
+      <lines>तू आने वाला, तू आने वाला  <br/>आने वाला, यीशू की जय (2)  <br/></lines>
+    </verse>
+  </lyrics>
+</song>

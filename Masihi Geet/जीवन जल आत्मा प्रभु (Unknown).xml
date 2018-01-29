@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2018-01-29T09:52:15">
+  <properties>
+    <titles>
+      <title>जीवन जल आत्मा प्रभु</title>
+      <title>Jivan Jal aatma Prabhu</title>
+    </titles>
+    <authors>
+      <author>Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="Hindi Song Book"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="c1">
+      <lines>जीवन जल आत्माै प्रभु,<br/>बहती नदियां सा है  तू प्रभु<br/>आ प्रभु सद्‌ गुरु<br/>बहती नदियाँ जैसा-2<br/></lines>
+    </verse>
+    <verse name="v1">
+      <lines>थोड़ा डूबूं काफी नहीं,<br/>जयादा डूबूं काफी नहीं<br/>पूरा-पूरा डूबना है - 2<br/>डूब डूब मगन होना है<br/></lines>
+    </verse>
+    <verse name="v2">
+      <lines>इसमें बहती आरोग्य ता<br/>इसमें मिलती है शुद्धता <br/>इसमें बहती है शान्तिश<br/>इसमें मिलती सम्पदन्न ता<br/></lines>
+    </verse>
+    <verse name="v3">
+      <lines>कोटि कोटि मछुआरे आओ<br/>जल्दीक जल्दीघ जालें लगाओ<br/>गाते गाते मछली पकड़ लो<br/>आत्मागओं से घर भर दो<br/></lines>
+    </verse>
+    <verse name="v4">
+      <lines>नदी के तट पर पेड़ अनेकों<br/>देने होगें फल भी अनेकों<br/>पत्ते बन जायेंगे दवा<br/>फल बन जायेंगे भोजन<br/></lines>
+    </verse>
+  </lyrics>
+</song>

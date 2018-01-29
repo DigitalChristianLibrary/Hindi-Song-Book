@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2018-01-27T07:32:02">
+  <properties>
+    <titles>
+      <title>असाध्यत नहीं कुछ मेरे लिए</title>
+      <title>Asambhav nahi kuch mere liye</title>
+    </titles>
+    <authors>
+      <author>Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="Hindi Song Book"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="i1">
+      <lines>असाध्यत नहीं कुछ मेरे लिए<br/>शक्तिय देने वाला सब करता है संभव<br/>बुद्धि से बढकर समझ से बाहर<br/>मेरे लिए करता है वो उपाय</lines>
+    </verse>
+    <verse name="c1">
+      <lines>साध्यि है सब साध्यं है<br/>क्यायकि यीशु मेरे संग है सदा</lines>
+    </verse>
+    <verse name="v1">
+      <lines>दुख और मुसीबत के आए तूफान <br/>नही डरूंगा यीशु मेरा चट्‌टान <br/>बुद्धि से बढ़कर अगम्या शांन्तीा से<br/>दिल मेरा भरता है मेरा प्रभु</lines>
+    </verse>
+    <verse name="v2">
+      <lines>शैतान की शक्तिढ पर पाऊँगा विजय<br/>वचन की शक्तिढ से पाऊँगा विजय<br/>बुद्धि से बढ़कर शक्तिे से भरकर<br/>जयवन्तत करता है मेरा प्रभु </lines>
+    </verse>
+  </lyrics>
+</song>

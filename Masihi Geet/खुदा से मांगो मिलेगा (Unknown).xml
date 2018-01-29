@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2018-01-29T06:19:20">
+  <properties>
+    <titles>
+      <title>खुदा से मांगो मिलेगा</title>
+      <title>Khuda se Maango Milega</title>
+    </titles>
+    <authors>
+      <author>Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="Hindi Song Book"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="c1">
+      <lines>खुदा से मांगो मिलेगा<br/>उसका वायदा है वो देगा<br/>उसके वायदों पे ऐतबार करो <br/>खुदा से प्याोर करो प्या र करो<br/>प्या र करो  (2)<br/></lines>
+    </verse>
+    <verse name="v1">
+      <lines>वही तो राह है<br/>सच है वही तो जीवन है<br/>और उसने रुह जो भेजी है<br/>साथ हरदम है <br/> वो सदा साथ चलेगा<br/>उसका वायदा है चलेगा.... उसके वायदों पे <br/></lines>
+    </verse>
+    <verse name="v2">
+      <lines>पहले उसकी बादशाहत<br/>उसकी राह चुनो<br/>तुमको दुनिया की हर एक<br/>चीज़ भी वो देगा सुनो<br/>वो जो कहता है करेगा<br/>उसका वायदा है करेगा.....उसके वायदों पे <br/></lines>
+    </verse>
+  </lyrics>
+</song>

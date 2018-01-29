@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2018-01-29T06:53:07">
+  <properties>
+    <titles>
+      <title>चाहे कोई रोके</title>
+      <title>Chahe koi Roke</title>
+    </titles>
+    <authors>
+      <author>Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="Hindi Song Book"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="c1">
+      <lines>चाहे कोइ रोके, चाहे कोइ टोके  (2)<br/>मैं चलूंगा, यीशु के पीछे (2)<br/>चाहे कोइ माने, चाहे ना माने (2)<br/>मैं चलूंगा, यीशु के पीछे (2)<br/></lines>
+    </verse>
+    <verse name="v1">
+      <lines>उसका खालम अपने दिल में ही रखाकर,<br/> सबको मैं, सुनाऊंगा <br/> हर एक बात जो उसने बताई ,<br/> उनको ना मैं भूलुंगा,<br/> जब तक साँसो में, साँसे है मेरी (2) <br/> उसके लिए जियूँगा  (2) <br/> चाहे कोइ..........क्या( तुम चलोगे यीशु के पीछे?<br/></lines>
+    </verse>
+    <verse name="v2">
+      <lines>जल के लिए जैसे तरसे है हिरनी,  <br/> उसके लिए तड़पे, मेरा मन <br/> जाऊंगा कब में सामाने उसके<br/></lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2018-01-28T07:49:49">
+  <properties>
+    <titles>
+      <title>आवाज़ उठाएंगे</title>
+      <title>Aawaz uthayenge</title>
+    </titles>
+    <authors>
+      <author>Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="Hindi Song Book"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="c1">
+      <lines>आवाज़ उठाएंगे<br/>हम साज बजाएंगे<br/>है यीशु महान अपना<br/>यह गीत सुनाएंगे	<br/></lines>
+    </verse>
+    <verse name="v1">
+      <lines>न देख सका हमको<br/>तू पाप के सागर में <br/>और बनके मनुष्या आया<br/>आकाश से सागर में 	<br/>मुक्तिल का तू दाता है<br/>दुनिया को बताएंगे<br/>हे यीशु महान अपना...यह गीत<br/></lines>
+    </verse>
+    <verse name="v2">
+      <lines>संसार की सुन्दोरता में <br/>यह रूप जो तेरा ही<br/>इन चाँद सितारो में <br/>है अक्सच जो तेरा ही<br/>महिमा की तेरी बाते 	<br/>हम सब को बताएंगे<br/>है यीशु महान अपना...यह गीत<br/></lines>
+    </verse>
+    <verse name="v3">
+      <lines>दिल तेरा खज़ाना है<br/>एक पाक मोहब्बत  का<br/>था पा न सका कोई<br/>सागर है तू उल्फकत का	<br/>हम तेरी मोहब्बत से<br/>दिल अपना सजायेंगे <br/>है यीशु महान अपना...यह गीत<br/></lines>
+    </verse>
+  </lyrics>
+</song>

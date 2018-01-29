@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2018-01-28T07:29:23">
+  <properties>
+    <titles>
+      <title>आराधना करे आराधना</title>
+      <title>Aradhna kre Aradhna</title>
+    </titles>
+    <authors>
+      <author>Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="Hindi Song Book"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="c1">
+      <lines>आराधना करे आराधना <br/>उपकारो को उसके याद करे <br/>हाथों को उठाके धन्ययवाद करे <br/>ऊँचे स्वरों से उसकी स्तु ति करे <br/>हालेलूयाह (8)<br/></lines>
+    </verse>
+    <verse name="v1">
+      <lines>यीशु के लहू ने पापों से मुक्तिे दी<br/>यीशु के लहू ने रोगों से चंगाई दी (2)<br/>संभाला मुझे अपने हाथों से<br/>मुझे कोई चिन्तान नही (2)<br/></lines>
+    </verse>
+    <verse name="v2">
+      <lines>आत्मा् के फल से प्रभु तू भर दे मुझे<br/>दिल से करुँ सारे काम शक्तिि मुझे ऐसी दे<br/>ताज़ा हर दम रहूँ आत्माे की शक्ति में <br/>अर्पर्ण करता हूँ उस के लिए<br/>  <br/></lines>
+    </verse>
+  </lyrics>
+</song>

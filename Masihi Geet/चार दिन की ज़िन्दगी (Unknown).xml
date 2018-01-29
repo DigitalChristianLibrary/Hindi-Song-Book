@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2018-01-29T06:44:26">
+  <properties>
+    <titles>
+      <title>चार दिन की ज़िन्दगी</title>
+      <title>Chaar din ki zindagi</title>
+    </titles>
+    <authors>
+      <author>Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="Hindi Song Book"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="c1">
+      <lines>चार दिन की ज़िन्दगी है,<br/>दो दिन की है जवानी (2)<br/>कट जाएंगे यह<br/>चार दिन की ज़िन्दगी <br/>दुनिया से चले जाएंगे (2)<br/></lines>
+    </verse>
+    <verse name="v1">
+      <lines>सारे संसार ने पाप किया है<br/>रब्ब  की महिमा से दूर हुए हैं (2)<br/>पापी का स्वनर्ग में निवास नहीं है<br/>सोच लो तुम्हा रा अब वास कहाँ है (2)<br/></lines>
+    </verse>
+    <verse name="v2">
+      <lines>रहना नहीं दुनिया में हमेशा हमें<br/>जाना तो पड़ेगा एक दिन दुनिया से हमें (2)<br/>जाने से पहले यह बात सोच लो<br/>मरने के बाद तुम कहाँ जाओगे (2)<br/></lines>
+    </verse>
+    <verse name="v3">
+      <lines>पापों से बचाने केवल एक ही आया है<br/>यीशु उधारकर्ता जीवन लाया है (2)<br/>यही प्रभु एक दिन न्याकय करेगा<br/>सोच लो तुम्हादरा क्याा फल लाएगा (2)<br/></lines>
+    </verse>
+  </lyrics>
+</song>

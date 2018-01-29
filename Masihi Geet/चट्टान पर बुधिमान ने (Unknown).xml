@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2018-01-29T06:39:12">
+  <properties>
+    <titles>
+      <title>चट्टान पर बुधिमान ने</title>
+      <title>Chattan pr Buddhiman ne</title>
+    </titles>
+    <authors>
+      <author>Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="Hindi Song Book"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>चट्‌टान पर बुद्धिमान ने<br/>बनाया अपना घर-3<br/>और ज़ोर की बारिश आई।<br/>और ज़ोर की बारिश आई<br/>तूफान भी उठा-3<br/>पर बुद्धिमान का घर स्थिार रहा।<br/></lines>
+    </verse>
+    <verse name="v2">
+      <lines>बालू पर मूर्ख ने बनाया अपना घर-3<br/>और ज़ोर की बारिश आई।<br/>और ज़ोर की बारिश आई<br/>और तूफान भी उठा-3<br/>और मूर्ख का घर गिर गया।<br/></lines>
+    </verse>
+  </lyrics>
+</song>

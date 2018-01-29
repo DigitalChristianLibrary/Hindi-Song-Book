@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2018-01-29T06:58:02">
+  <properties>
+    <titles>
+      <title>छोटी छोटी जीवन गाड़ी</title>
+      <title>Chhoti Chhoti Jivan gaadi</title>
+    </titles>
+    <authors>
+      <author>Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="Hindi Song Book"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="c1">
+      <lines>छोटी छोटी जीवन गाड़ी<br/>हाथ से नही बनती है<br/>दूर दूर वो जाती है<br/>कैसी अद्‌भुत गाड़ी है<br/>छोटी छोटी जीवन गाड़ी<br/>हाथ से नहीं बनती है।<br/></lines>
+    </verse>
+    <verse name="v1">
+      <lines>दो स्टेेशन होते है स्व र्ग<br/>और नरक बोलते हैं<br/>मार्ग जो स्व र्ग को जाता <br/>बाईबल में वह मिलता है।<br/></lines>
+    </verse>
+    <verse name="v2">
+      <lines>इन्जीन ड्राइवर नहीं है<br/>पर दो पांव से चलती है<br/>मौत का घन्टाप बजता जब<br/>तब ही गाड़ी रूकती है<br/></lines>
+    </verse>
+    <verse name="v3">
+      <lines>ताज और झंडा वीणा भी<br/>र्स्वरग में हमको मिलेगा<br/>होशन्नाझ दृीष्टक की जय<br/>स्तु्ति करते जावेगें।<br/></lines>
+    </verse>
+  </lyrics>
+</song>

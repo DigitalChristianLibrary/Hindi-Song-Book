@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2018-01-28T07:42:17">
+  <properties>
+    <titles>
+      <title>आराधना हम करते है</title>
+      <title>Aradhna hm krte hai</title>
+    </titles>
+    <authors>
+      <author>Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="Hindi Song Book"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="c1">
+      <lines>आराधना हम करते है<br/>पूरे दिल और मन से तेरी महिमा गाते है<br/>और हम कहते है दिल से कहते है, हम कहते है<br/>आ प्रभू यीशु आ मुझमें हो तेरी महिमा (2)<br/>मुझमें हो तेरी महिमा	<br/></lines>
+    </verse>
+    <verse name="v1">
+      <lines>तेरे भवन में हम आते है <br/>सारा आदर हम तुझको देते है<br/>और हम कहते है दिल से कहते है, हम कहते है<br/>आ प्रभू यीशु आ मुझमें हो तेरी महिमा (2)<br/>मुझमें हो तेरी महिमा	<br/><br/></lines>
+    </verse>
+  </lyrics>
+</song>

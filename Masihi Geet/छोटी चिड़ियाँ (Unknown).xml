@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2018-01-29T06:55:45">
+  <properties>
+    <titles>
+      <title>छोटी चिड़ियाँ</title>
+      <title>Chhoti Chidiyan</title>
+    </titles>
+    <authors>
+      <author>Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="Hindi Song Book"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="c1">
+      <lines>छोटी चिड़िया, छोटी चिड़िया<br/>पेड़ पर बैठी है,<br/>अब तू आजा और बता<br/>तू क्याज गाती है?<br/>हे बच्चों , हे बच्चोंम मैं ये बताता हूँ,<br/>प्रभु का प्रेम, प्रभु का प्रेम,<br/>मैं जो गाती हूँ।<br/></lines>
+    </verse>
+  </lyrics>
+</song>

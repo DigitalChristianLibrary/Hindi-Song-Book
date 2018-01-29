@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2018-01-29T09:34:39">
+  <properties>
+    <titles>
+      <title>छोड़ दे छोड़ दे</title>
+      <title>Chhod de chhod de</title>
+    </titles>
+    <authors>
+      <author>Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="Hindi Song Book"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="c1">
+      <lines>छोड़ दे, छोड़ दे,<br/>अपने आप का भरोसा<br/>कर मसीह पर भरोसा,<br/>वो तुझे जानता है<br/></lines>
+    </verse>
+    <verse name="v1">
+      <lines>दो-चार दिन की है तेरी<br/>यह रंग, रूप और यह जवानी<br/>यह धन दौलत और यह शौहरत<br/>हो जाएगी एक दिन फानी<br/>चलने वाली साँसें तो ठहर जाती हैं<br/></lines>
+    </verse>
+    <verse name="v2">
+      <lines>दुनिया की ताकत का<br/>सुन प्याीरे भरोसा न करना<br/>झूठा प्या र झूठा जग सारा<br/>किसी पर भरोसा न करना <br/>कच्चेप धागों का यह बन्धन टूट जाता है<br/></lines>
+    </verse>
+    <verse name="v3">
+      <lines>अपनी फ़िक्र तू कभी न करना<br/>तेरी फ़िक्र तो मसीह करेगा<br/>जहाँ में एक है वो सहारा<br/>सारी मुश्कि लें मसीह आसान करेगा<br/>सुख शान्तिि के, ये घर लेकर जायेंगा <br/></lines>
+    </verse>
+  </lyrics>
+</song>

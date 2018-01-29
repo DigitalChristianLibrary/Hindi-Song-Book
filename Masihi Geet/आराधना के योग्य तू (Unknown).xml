@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2018-01-28T07:38:34">
+  <properties>
+    <titles>
+      <title>आराधना के योग्य तू</title>
+      <title>Aradhna ke yogya tu</title>
+    </titles>
+    <authors>
+      <author>Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="Hindi Song Book"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="c1">
+      <lines>आराधना के योग्यप तू<br/>प्रभु तेरी करते हम आराधना<br/>सृष्टिप बनाने वाले सृजनहार प्रभु<br/>आत्माि और सच्चादई से प्रभु जी<br/>स्तुाति करुंगा सदा<br/></lines>
+    </verse>
+    <verse name="v1">
+      <lines>पापों के दल दल से<br/>तेरा क्रूस मुझे लौटाकर लाया<br/>पावन जीवन देकर<br/>पाप के दाग मिटाकर<br/>तू ने बचाया है प्रभु आत्माे से करुंगा आराधना<br/></lines>
+    </verse>
+    <verse name="v2">
+      <lines>वादे अनुसार पिता, तेरे लोग <br/>होते है जब भी जमा<br/>सुनता तू दोहाई देता है रिहाई<br/>आशीष, देता अपरम्पा र प्रभु तेरी<br/>करते हम आराधना	<br/><br/></lines>
+    </verse>
+    <verse name="v3">
+      <lines>जो भी की फरियाद मैने<br/>सुनी तूने शुक्रिया प्रभु तुझको<br/>आशीष का सोता तू है<br/>जीवन का दाता तू है<br/>तू ही है मेरा सबकुछ यीशु<br/>तेरी करते हम आराधना<br/></lines>
+    </verse>
+  </lyrics>
+</song>

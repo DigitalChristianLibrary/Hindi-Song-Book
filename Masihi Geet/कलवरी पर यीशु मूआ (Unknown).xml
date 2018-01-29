@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2018-01-29T06:02:27">
+  <properties>
+    <titles>
+      <title>कलवरी पर यीशु मूआ</title>
+      <title>kalwari pr yishu Mooa</title>
+    </titles>
+    <authors>
+      <author>Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="Hindi Song Book"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="c1">
+      <lines>कलवरी पर यीशु मुआ  2<br/>वहाँ जीवन का सोता बहा,<br/>वहाँ जीवन का सोता निकला,<br/>पापी प्या स तू अपनी बुझा ।<br/><br/></lines>
+    </verse>
+    <verse name="v1">
+      <lines>. हे धर्मियों तुम भी पीयो,<br/>हे पापियों तुम भी पियो,<br/>वह सबके लिए है बहा ।<br/></lines>
+    </verse>
+    <verse name="v2">
+      <lines>उसके पाँजर में भाला छेदा,<br/>उसके हाथों में कीलें ठुकी,<br/>उसने क्यां क्याक न दुःख सहा ।<br/></lines>
+    </verse>
+    <verse name="v3">
+      <lines>उसके लहू से ले तू नहा,<br/>साफ होंगे तेरे गुनाह,<br/>वह सबके लिये है बहा <br/></lines>
+    </verse>
+    <verse name="v4">
+      <lines>वह सूली पे है चढ़ गया,<br/>कहा उसने जो कि पूरा हुआ,<br/>द्वार मुक्ति  का खोला गया ।<br/><br/></lines>
+    </verse>
+  </lyrics>
+</song>

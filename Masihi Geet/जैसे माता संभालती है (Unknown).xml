@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2018-01-29T09:59:46">
+  <properties>
+    <titles>
+      <title>जैसे माता संभालती है</title>
+      <title>Jaise mata sambhalti hai</title>
+    </titles>
+    <authors>
+      <author>Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="Hindi Song Book"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="c1">
+      <lines>जैसे माता संभालती है<br/>वैसे यीशु संभालेगा (2)<br/></lines>
+    </verse>
+    <verse name="v1">
+      <lines>सीने से लगायेगा<br/>चिन्ताी सब हटायेगा.... जैसे<br/></lines>
+    </verse>
+    <verse name="v2">
+      <lines>हाथ थाँमके ले जायेगा<br/>चट्टान पर चढ़ायेगा.... जैसे<br/></lines>
+    </verse>
+    <verse name="v3">
+      <lines>मेरे कारण वो घायल हूआ<br/>मेरे पापों को उठा लिया.... जैसे<br/></lines>
+    </verse>
+    <verse name="v4">
+      <lines>कभी भी न छोड़ेगा <br/>कभी भी न त्यागगेगा.... जैसे<br/></lines>
+    </verse>
+  </lyrics>
+</song>

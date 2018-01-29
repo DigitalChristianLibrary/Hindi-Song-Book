@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2018-01-28T07:21:56">
+  <properties>
+    <titles>
+      <title>आत्मा़ मण्ड लाता</title>
+      <title>Aatma Mandlata</title>
+    </titles>
+    <authors>
+      <author>Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="Hindi Song Book"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="c1">
+      <lines>आत्माि मण्ड लाता <br/>पवित्र आत्माे मण्ड लाता (2)<br/>पैन्तिकुस्त के दिन समान<br/>आत्माि मण्ड लाता (2)<br/><br/></lines>
+    </verse>
+    <verse name="v1">
+      <lines>अंन्धेप देखते है (4)<br/>यीशु मसीह के नाम से अंन्धे  देखते है<br/>आत्मा़प़़़.....	<br/><br/><br/></lines>
+    </verse>
+    <verse name="v2">
+      <lines>बहरे सुनते है (4)<br/>यीशु मसीह के नाम से बहरे सुनते है<br/>आत्मा़प़़.....<br/></lines>
+    </verse>
+    <verse name="v3">
+      <lines>लंगड़े चलते हे (4)<br/>यीशु मसीह के नाम से लंगड़े चलते हे<br/>आत्मा .....<br/><br/><br/></lines>
+    </verse>
+    <verse name="v4">
+      <lines>पापी क्षमा पाते (4)<br/>यीशु मसीह के नाम से पापी क्षमा पातेे<br/>आत्मा़.....<br/></lines>
+    </verse>
+  </lyrics>
+</song>

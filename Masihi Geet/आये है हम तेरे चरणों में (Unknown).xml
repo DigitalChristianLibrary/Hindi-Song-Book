@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2018-01-28T07:23:40">
+  <properties>
+    <titles>
+      <title>आये है हम तेरे चरणों में</title>
+      <title>Aaye hai hum tere charno me</title>
+    </titles>
+    <authors>
+      <author>Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="Hindi Song Book"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="c1">
+      <lines>आये है हम तेरे चरणों  में  <br/>लेकर हम स्तुलति (2)<br/>हालेलूयाह..... हालेलूयाह<br/></lines>
+    </verse>
+    <verse name="v1">
+      <lines>हम बच्चेै है परमपिता के<br/>बढ़ना है हम वचनों में <br/>	<br/></lines>
+    </verse>
+    <verse name="v2">
+      <lines>प्याारे मसीहा आशीष दे हमे <br/>आत्माू से तू भर दे हमे <br/></lines>
+    </verse>
+    <verse name="v3">
+      <lines>मिलेगी हमको  तुझसे चंगाईयाँ<br/>दे दे हमको पापों से मुक्तिक..<br/></lines>
+    </verse>
+    <verse name="v4">
+      <lines>4.हम तैयार है यीशु तेरे लिए<br/>जल्दीम आ तू हमको लेने..  <br/></lines>
+    </verse>
+  </lyrics>
+</song>

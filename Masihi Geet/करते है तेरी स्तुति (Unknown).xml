@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2018-01-29T05:59:20">
+  <properties>
+    <titles>
+      <title>करते है तेरी स्तुति</title>
+      <title>Karte hai hum teri stuti</title>
+    </titles>
+    <authors>
+      <author>Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="Hindi Song Book"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="c1">
+      <lines>करते है हम तेरी स्तु ति<br/>हृदय कि गहराईया से<br/>यीशु तू ही है तू ही है  <br/>हमारा प्रभु (2)<br/></lines>
+    </verse>
+    <verse name="v1">
+      <lines>महिमा हो तेरी (4)<br/>यीशु तू  ही है तू ही है  <br/>हमारा प्रभु (2)<br/></lines>
+    </verse>
+    <verse name="v2">
+      <lines>आत्मा  और सच्चा)ई से<br/>तेरी आराधना करेंगे <br/>ऊँचा और ऊँचा<br/>सबसे ऊँचा रहे तेरा नाम<br/></lines>
+    </verse>
+  </lyrics>
+</song>

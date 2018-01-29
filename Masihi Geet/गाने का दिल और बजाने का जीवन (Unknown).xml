@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2018-01-29T06:28:59">
+  <properties>
+    <titles>
+      <title>गाने का दिल और बजाने का जीवन</title>
+      <title>Gaane ka dil aur Bajane ka jivan</title>
+    </titles>
+    <authors>
+      <author>Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="Hindi Song Book"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="c1">
+      <lines>गाने का दिल और बजाने का जीवन<br/>हम सब ने पाया है, हम सबने पाया है<br/>खुशियाँ यह कैसी अनोखी,<br/>मेरे दिल में यीशु आ गया<br/></lines>
+    </verse>
+    <verse name="v1">
+      <lines>जिस व्यवक्तिआ ने यीशु को पाया (2)<br/>उसका जीवन बदल गया है  (2)    गाने का<br/></lines>
+    </verse>
+    <verse name="v2">
+      <lines>जिस व्य क्तिा ने विश्वा)स किया (2)<br/>वो यीशु का बेटा बन गया  (2)    गाने का<br/></lines>
+    </verse>
+    <verse name="v3">
+      <lines>जिस व्य क्तिर ने आत्माा को पाया  (2)<br/>वो स्वयर्गीय वारिस बन गया  (2)   गाने का<br/></lines>
+    </verse>
+  </lyrics>
+</song>

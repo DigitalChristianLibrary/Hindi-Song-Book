@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2018-01-29T06:24:26">
+  <properties>
+    <titles>
+      <title>खुल जाएगी किताबे</title>
+      <title>Khul jayegi Kitabe</title>
+    </titles>
+    <authors>
+      <author>Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="Hindi Song Book"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="c1">
+      <lines>खुल जाएँगी  किताबें<br/>जब भी हिसाब होगा<br/>इंसाफ का तराजू<br/>यीशु के हाथ होगा<br/></lines>
+    </verse>
+    <verse name="v1">
+      <lines>जो भी तू कर रहा है<br/>यीशु वो देखता है<br/>हर पल का तुझको इसका<br/>देना हिसाब होगा<br/></lines>
+    </verse>
+    <verse name="v2">
+      <lines>आजा अभी भी मुड़कर<br/>यीशु बुला रहा है<br/>वरना यह याद कर ले<br/>तेरा ही नाश होगा<br/></lines>
+    </verse>
+    <verse name="v3">
+      <lines>कदमों में उसके रो ले<br/>तौबा गुनाह से कर ले<br/>फिदिया मसीह ने दिया<br/>माफी तू आज ले ले<br/></lines>
+    </verse>
+  </lyrics>
+</song>

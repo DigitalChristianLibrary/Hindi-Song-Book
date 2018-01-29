@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2018-01-29T09:49:18">
+  <properties>
+    <titles>
+      <title>जागो सोने वालो</title>
+      <title>jaago sone waalo</title>
+    </titles>
+    <authors>
+      <author>Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="Hindi Song Book"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="c1">
+      <lines>जागो सोने वालो, वक्तय अब जाने लगा<br/>आज तुमको जगाने कोई आया है<br/>ज़िन्दगी में किसी की सुनी न सुनी<br/>तुम्हेंो वचन सुनाने कोई आया है ।<br/></lines>
+    </verse>
+    <verse name="v1">
+      <lines>जब दिन का उजाला बढ़ने लगा<br/>गफलत में पड़े क्योंल सोने लगे,<br/>हर दम कोई तुमको जगाने आया है <br/>कभी जाग उठे फिर सोने लगे<br/>ऐसों को नतीजा कुछ न मिले<br/>तुम्हें  याद दिलाने कोई आया है ।<br/></lines>
+    </verse>
+    <verse name="v2">
+      <lines>दुनियाँ में तुमने पाप किए<br/>अपने लिए मौत कमाई है<br/>फिर मन की शांति पाने में<br/>यूं सारी उम्र गंवाई है<br/>मरने से पहले ज़रा सुन लो<br/>तुम्हें  मौत से बचाने कोई आया है।<br/></lines>
+    </verse>
+    <verse name="v3">
+      <lines>आ जाओ यीशु के कदमों में<br/>छोड़ो ये दुनिया की बातें<br/>जो न माने मिट जाते हैं<br/>जो बच जाते जीवन पाते<br/>ऐसा न समय फिर आए कभी<br/>तुम्हेंम जीवन दिलाने कोई आया है ।<br/></lines>
+    </verse>
+  </lyrics>
+</song>

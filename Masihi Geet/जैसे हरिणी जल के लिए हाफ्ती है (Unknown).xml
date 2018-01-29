@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2018-01-29T10:03:12">
+  <properties>
+    <titles>
+      <title>जैसे हरिणी जल के लिए हाफ्ती है</title>
+      <title>Jaise harini jal ke liye Hafti hai</title>
+    </titles>
+    <authors>
+      <author>Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="Hindi Song Book"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="c1">
+      <lines>जैसे हरिणी जल के लिए हाँफती है<br/>मेरा प्राण तेरे लिए प्यातसा है<br/>तू ही है मेरे दिल की चाहत<br/>और मैं तेरी आराधना करूँ<br/>तू ही है मेरा बल और ढ़ाल<br/>मेरी आत्माे तेरी ओर झुके<br/>तू ही है मेरे दिल की चाहत<br/>और मैं तेरी आराधना करूँ<br/></lines>
+    </verse>
+    <verse name="v1">
+      <lines>तू है राजा लेकिन तू मेरा मित्र<br/>और मेरा भाई है<br/>सब लोगों और सब बातों से<br/>बढ़कर मैं तुझसे प्या र करता हूँ।<br/></lines>
+    </verse>
+    <verse name="v2">
+      <lines>सोने और चाँदी से ज़्यादा मैं तुझसे चाहूँ<br/>तू ही मुझे तृप्त  करता है<br/>सच्चे  आनंद का दाता केवल तू ही<br/>और मेरी आँखों की पुतली।<br/></lines>
+    </verse>
+  </lyrics>
+</song>

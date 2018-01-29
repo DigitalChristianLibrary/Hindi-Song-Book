@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2018-01-29T06:41:16">
+  <properties>
+    <titles>
+      <title>चले जाना है दूर से दूर तलक</title>
+      <title>Chale jana hai door se door talak</title>
+    </titles>
+    <authors>
+      <author>Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="Hindi Song Book"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="c1">
+      <lines>चले जाना है दूर से दूर तलक,<br/>लेके यीशु का प्याेरा-प्या‍रा नाम,<br/>वो ही नाम प्या्रा-प्यापरा नाम (2)<br/></lines>
+    </verse>
+    <verse name="v1">
+      <lines>जिस नाम से हमको मुक्तिर मिली<br/>जिस नाम से हमको शांति मिली,<br/>वो ही नाम प्याोर-प्या रा नाम (2)<br/></lines>
+    </verse>
+    <verse name="v2">
+      <lines>जिस नाम से अंधे देखने लगा,<br/>जिस नाम से लँगड़ा चलने लगा,<br/>वो ही नाम प्याडर-प्या रा नाम (2)<br/></lines>
+    </verse>
+    <verse name="v3">
+      <lines>जिस नाम से हमको आनंद मिला,<br/>उस आनन्दस को बाँटते चले जाना है,<br/>वो ही नाम प्याोर-प्या रा नाम (2)<br/></lines>
+    </verse>
+  </lyrics>
+</song>

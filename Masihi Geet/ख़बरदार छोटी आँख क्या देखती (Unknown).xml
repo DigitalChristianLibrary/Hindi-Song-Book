@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2018-01-29T06:14:46">
+  <properties>
+    <titles>
+      <title>ख़बरदार छोटी आँख क्या देखती</title>
+      <title>Khabardar choti Aankh kya dekhti</title>
+    </titles>
+    <authors>
+      <author>Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="Hindi Song Book"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines> खबरदार छोटी आंख क्या देखती<br/>क्योंरकि तेरा बाप आसमान से<br/>नीचे देखता प्याकर से<br/>खबरदार छोटी आंख क्याय देखती।<br/></lines>
+    </verse>
+    <verse name="v2">
+      <lines> खबरदार छोटे हाथ क्याय करते<br/>क्योंाकि तेरा बाप आसमान से<br/>नीचे देखता प्याकर से<br/>खबर दार छोटे हाथ क्याा करते।<br/></lines>
+    </verse>
+    <verse name="v3">
+      <lines>खबरदार छोटे पाँव कहां जाते<br/>क्योंरकि तेरा बाप आसमान से<br/>नीचे देखता प्याकर से<br/>खबरदार छोटे पांव कहाँ जाते।<br/></lines>
+    </verse>
+    <verse name="v4">
+      <lines>खबरदार छोटा दिल क्याय सोचता।<br/>क्योंरकि तेरा बाप आसमान से<br/>नीचे देखता प्याकर से<br/>खबरदार छोटो दिल क्याय सोचता <br/></lines>
+    </verse>
+  </lyrics>
+</song>

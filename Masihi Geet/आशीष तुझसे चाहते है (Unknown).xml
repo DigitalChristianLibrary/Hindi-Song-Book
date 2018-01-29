@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2018-01-29T05:25:24">
+  <properties>
+    <titles>
+      <title>आशीष तुझसे चाहते है</title>
+      <title>Ashish tujhse chahte hai</title>
+    </titles>
+    <authors>
+      <author>Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="Hindi Song Book"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="c1">
+      <lines>आशीष तुझ से चाहते है<br/>हे स्वर्गीय पिता हम आते है (2)<br/></lines>
+    </verse>
+    <verse name="v1">
+      <lines>न कोई खूबी है न लियाकत<br/>बक्शों हमको अपनी ताकत<br/>खाली दिलो को लाते है (2)<br/>हे स्वर्गीय पिता हम आते है<br/><br/></lines>
+    </verse>
+    <verse name="v2">
+      <lines>हमने बहुत खताएं की है<br/>रहे निकम्मेय जफ़ाएं की है<br/>शर्म से सर झुक जाते है (2)<br/>हे स्वर्गीय पिता हम आते है<br/><br/></lines>
+    </verse>
+    <verse name="v3">
+      <lines>तुम हो शक्तिमान प्रभु जी<br/>दया भी है अपार यीशु जी<br/>स्तुोति हम सब गाते है (2)<br/>हे स्वर्गीय पिता हम आते है<br/></lines>
+    </verse>
+    <verse name="v4">
+      <lines>बन्दों को तु कभी न भूले <br/>दुःख सहे जो दुनियाँ में तूने<br/>उस ही प्रेम को चाहते है (2)<br/>हे स्वर्गीय पिता हम आते है<br/></lines>
+    </verse>
+  </lyrics>
+</song>

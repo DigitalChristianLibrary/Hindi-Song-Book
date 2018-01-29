@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2018-01-28T07:34:48">
+  <properties>
+    <titles>
+      <title>आराधना आराधना</title>
+      <title>Aradhna Aradhna</title>
+    </titles>
+    <authors>
+      <author>Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="Hindi Song Book"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="c1">
+      <lines>आराधना,आराधना  स्तुशति आराधना,आराधना <br/>सुबह के समय शाम के समय आराधना अब्बाब को	<br/></lines>
+    </verse>
+    <verse name="v1">
+      <lines>पवित्र आत्माा तुझे आराधना <br/>मेरे साथी तुझे आराधना <br/>स्वर्गीय पिता तुझे आराधना <br/>मार्ग दर्शन तुझे आराधना<br/></lines>
+    </verse>
+    <verse name="v2">
+      <lines>जीवित बली तुझे आराधना <br/>जीवन जल तुझे आराधना <br/>बादल के खम्भेु तुझे आराधना <br/>मेरे मसीह तुझे आराधना <br/>	<br/></lines>
+    </verse>
+  </lyrics>
+</song>

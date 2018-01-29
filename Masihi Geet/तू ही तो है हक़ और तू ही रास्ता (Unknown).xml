@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2018-01-29T10:15:20">
+  <properties>
+    <titles>
+      <title>तू ही तो है हक़ और तू ही रास्ता</title>
+      <title>Tu hi to hai hak or Tu hi Rasta</title>
+    </titles>
+    <authors>
+      <author>Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="Hindi Song Book"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="c1">
+      <lines>तू ही तो हक और तू ही रास्ताअ<br/>तू ही ज़िन्दगी है...2 ज़िन्दगी...2<br/>खुदावन खुदा<br/></lines>
+    </verse>
+    <verse name="v1">
+      <lines>मेरा सब कुछ तू ही तू है ।<br/>साथ मेरे अब तेरी रूह है ... 2<br/>तू है मालिक, तू है दाता<br/>नूर है तू, और तु खुशबु है ।<br/>मुझसे हो चाहे सारी<br/>;दुनिया खफ़ा...2<br/>तू है ज़िन्दगी  है,<br/>तू है बदंगी है<br/>बंदगी खुदावन खुदा<br/>तू ही, आशीकी है आशीकी,<br/>खुदावन खुदा<br/></lines>
+    </verse>
+    <verse name="v2">
+      <lines>घर जो बनाये, तू ही बनाये<br/>तू ना बनाये तो कौन बनाये ...2<br/>शहर जो बचाये तू ही बचाये<br/>तू ना बचाये तो कौन बचाये<br/>दुनियां में होगी बस,<br/>तेरी ही रज़ा, तू ही ज़िन्दगी हैं ।<br/></lines>
+    </verse>
+    <verse name="v3">
+      <lines>हर बेबस का, तू है सहारा<br/>डूबने वालों का है किनारा<br/>तू आगाज़ है, तू अंजाम है<br/>तेरे बिना अब कौन हमारा<br/>तू ने बनाये है, जमी आसंमा ...2<br/></lines>
+    </verse>
+  </lyrics>
+</song>

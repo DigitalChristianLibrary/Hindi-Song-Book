@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2018-01-28T07:21:35">
+  <properties>
+    <titles>
+      <title>आदि और अंत तू ही है</title>
+      <title>Aadi or ant tu hi hai</title>
+    </titles>
+    <authors>
+      <author>Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="Hindi Song Book"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="c1">
+      <lines>आदि और अंत तू ही है<br/>अल्फाओ और ओमेगा तू ही है<br/>दूतो की भी स्तू ति तू ही है<br/>बुद्धि और सब ज्ञान तू ही है ।<br/><br/>यीशु तू महान है , यीशु तू अच्छा  है<br/>यीशु तू जिंदा है , यीशु तू धन्या है<br/>दूतो की भी स्तूहति तू ही है<br/>बुद्धि और सब ज्ञान तू ही है ।<br/>राजाओं का राजा तू ही है<br/>प्रभुओं का प्रभु तू ही है ।<br/><br/></lines>
+    </verse>
+    <verse name="v1">
+      <lines>जीवन भरा पापों से मेरा<br/>मन अन्धेेरा और अशुद्ध सारा<br/>मेरे पापों से बचाने को<br/>मेरे लिए जीवन दिया है ।<br/><br/></lines>
+    </verse>
+    <verse name="v2">
+      <lines>सारे गुनाहगारों  के लिए<br/>अपना खून बहाया यीशु ने<br/>खाई कोड़ों की मार भी <br/>दी सलीब पर उसने अपनी जान ।<br/></lines>
+    </verse>
+    <verse name="v3">
+      <lines>वायदा किया है तूने<br/>वायदा तू करता है पूरा<br/>वायदें  के लिए आते हैं<br/>बरकतों की बारिश अब उण्डेूल ।<br/><br/></lines>
+    </verse>
+    <verse name="v4">
+      <lines>न्यााय करने आने वाला है<br/>न्यााय के साथ राज्यण करने को<br/>धर्मियों को ले जायेगा <br/>सिंहासनों पे राज्य करेगा । <br/><br/></lines>
+    </verse>
+  </lyrics>
+</song>

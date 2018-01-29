@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2018-01-29T05:33:26">
+  <properties>
+    <titles>
+      <title>आसमानी ख़ुशी से भर दे मुझको</title>
+      <title>Aasmani khushi se bhar de mujhko</title>
+    </titles>
+    <authors>
+      <author>Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="Hindi Song Book"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="c1">
+      <lines>आसमानी खुशी से भर दे मुझको (2)<br/>गीत नया दिल में ला<br/>उतर आ उतर आ उतर आ (2) <br/> ऐ रूहे पाक उतर आ<br/><br/></lines>
+    </verse>
+    <verse name="v1">
+      <lines>आत्मा  का जल प्रभु मुझको पिला दे (2)	<br/>दिल मेरे की प्या स बुझा दे<br/>चश्मा बन के उछल आ<br/>उतर आ उतर आ उतर आ<br/>ऐ रूहे पाक उतर आ<br/></lines>
+    </verse>
+    <verse name="v2">
+      <lines>आसमानी रोटी मुझको खिला दे (2)<br/>कमज़ोर दिल को तगड़ा बना दे<br/>भरपुर करके रज़ा<br/>उतर आ उतर आ उतर आ<br/>ऐ रूहे पाक उतर आ<br/><br/></lines>
+    </verse>
+    <verse name="v3">
+      <lines>पाक रूह आ मेरे दिल के अंदर (2)<br/>बन जाऊँ मै तेरा मन्दिेर<br/>अपनी राह दिखा<br/>उतर आ उतर आ उतर आ<br/>ऐ रूहे पाक उतर आ<br/></lines>
+    </verse>
+  </lyrics>
+</song>

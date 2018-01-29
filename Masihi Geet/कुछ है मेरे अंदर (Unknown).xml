@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2018-01-29T06:06:49">
+  <properties>
+    <titles>
+      <title>कुछ है मेरे अंदर</title>
+      <title>Kuch hai Mere Andar</title>
+    </titles>
+    <authors>
+      <author>Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="Hindi Song Book"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="c1">
+      <lines>कुछ है मेरे अंदर <br/>काम करता है वो बाहर-2<br/>जीवन मेरा बदल गया<br/>ओ मेरा जीवन बदल गया-2<br/><br/></lines>
+    </verse>
+    <verse name="v1">
+      <lines>यीशु मेरे अंदर <br/>काम करता है वो बाहर<br/>जीवन मेरा बदल गया...<br/><br/></lines>
+    </verse>
+    <verse name="v2">
+      <lines>आत्मा  मेरे अन्द र<br/>काम करता है वो बाहर<br/>जीवन मेरा बदल गया...<br/></lines>
+    </verse>
+    <verse name="v3">
+      <lines>वचन मेरे अंदर <br/>काम करता है वो बाहर<br/>जीवन मेरा बदल गया...<br/><br/></lines>
+    </verse>
+  </lyrics>
+</song>

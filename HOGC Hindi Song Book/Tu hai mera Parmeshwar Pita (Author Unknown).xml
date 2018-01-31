@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2018-01-31T06:55:04">
+  <properties>
+    <titles>
+      <title>Tu hai mera Parmeshwar Pita</title>
+    </titles>
+    <authors>
+      <author>Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="HOGC Hindi Song"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>तु है मेरा परमेशवर पिता <br/>मैं हूँ तेरी सन्तान <br/>तेरा प्यार मेरे लिए <br/>है बड़ा महान <br/>Tu hai mera Parmeshwar Pita<br/>Main hoon teri santan<br/>Tera pyaar mere liye<br/>Hai bada mahan</lines>
+    </verse>
+    <verse name="v2">
+      <lines>तेरा प्यार मैं चाहूँ <br/>हर ख़ुशी से बढकर <br/>तेरे घर में मैं रहूँ <br/>सदा सर्वदा <br/>Tere pyaar main chahun<br/>Har khushi se badkar<br/>Tere ghar mein main rahoon<br/>Sada sarvada</lines>
+    </verse>
+    <verse name="v3">
+      <lines>मेरे लिए तेरी बाहं खुली <br/>दिल प्यार से भरा <br/>गले से मुझको लगा <br/>सदा सर्वदा <br/>Mere liye teri baah khuli<br/>Dil pyaar se bhara<br/>Gale se mujhko laga<br/>Sada sarvada</lines>
+    </verse>
+  </lyrics>
+</song>

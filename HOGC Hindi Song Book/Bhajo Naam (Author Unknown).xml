@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2018-01-31T06:54:57">
+  <properties>
+    <titles>
+      <title>Bhajo Naam</title>
+    </titles>
+    <authors>
+      <author>Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="HOGC Hindi Song"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Bhajo naam, japo naam,  <br/>Pyaara naam, Yeshu naam  <br/>Chahe subaha ho yaa shaam  <br/>Chahe subaha ho yaa shaam  <br/>Yeshu naam re  <br/>Sab bhakti karo mil gaao  <br/>Yeshu naam re  <br/>भजो नाम, जपो नाम, <br/>प्यारा नाम, येशु नाम <br/>चाहे सुबह हो या शाम <br/>चाहे सुबह हो या शाम <br/>येशु नाम रे <br/>सब भक्ति करो मिल गाओ <br/>येशु नाम रे</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Bhakt bina bhakti adhuri,  <br/>Khrist sharan tujhe aanaa hai  <br/>Chor de apani shakti bal,  <br/>Khrist mein moha lagaanaa hai  <br/>Jeewan arpan kardo Prabhu mein,  <br/>Prabhu ki aashish paanaa hai  <br/>Jay jay karo mil saare,  <br/>Dhanya manaana hai <br/>भक्त बिना भक्ति अधुरी<br/>क्रिस्त शरन तुझे आना है <br/>छोड़ दे अपनी शक्ति बल <br/>क्रिस्त में मोंह लगाना है <br/>जीवन अर्पण करदो प्रभु में <br/>प्रभु की आशिश पाना है <br/>जय जय करो मिल सारे <br/>धन्य मनाना है</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Paap ki raaha ko chorana hai;  <br/>Swarg ki manzil paanaa hai   <br/>Is duniyaa mein chain nahin,   <br/>Swargiya Pitaa ko jaanaa hai   <br/>Shanti mukti kaa maarg wahi hai,  <br/>Usme moha lagaana hai   <br/>Sacha Saathi Prabhu hamaara,  <br/>Use apanaana hai  <br/>पाप की राह को छोड़ना है <br/>स्वर्ग की मंजिल पाना है <br/>इस दुनिया में चैन नहीं <br/>स्वर्गीय पिता को जानना है <br/>शान्ति मुक्ति का मार्ग वही है <br/>उसमें मोह लगाना है <br/>सच्चा साथी प्रभु हमारा <br/>उसे अपनाना है</lines>
+    </verse>
+  </lyrics>
+</song>

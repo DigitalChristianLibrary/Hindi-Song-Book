@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2018-01-31T06:55:03">
+  <properties>
+    <titles>
+      <title>Sharon ka gulab</title>
+    </titles>
+    <authors>
+      <author>Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="HOGC Hindi Song"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>शारोन का गुलाब<br/>Sharon ka gulab</lines>
+    </verse>
+    <verse name="v2">
+      <lines>शारोन का गुलाब<br/>है तु मेरा मसीहा<br/>Sharon ka gulab<br/>Hai tu mera masiha</lines>
+    </verse>
+    <verse name="v3">
+      <lines>तु मुझे जल देता<br/>और मैं तुझे नहीं भूलूंगा<br/>Tu mujhe jal deta<br/>Aur mai tujhe nahi bhoolunga</lines>
+    </verse>
+    <verse name="v4">
+      <lines>तू है मेरा प्रिय<br/>और मैं तुझसे प्रेम करूँगा<br/>Tu hai mera priya<br/>Aur main tujhse prem karunga</lines>
+    </verse>
+    <verse name="v5">
+      <lines>तू मेरा सब कुछ है<br/>और मैं तेरे लिये जीयुँगा<br/>Tu mera sab kuchh hai<br/>Aur main tere liye jeeyuga</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2018-01-31T06:55:05">
+  <properties>
+    <titles>
+      <title>Yeshu tera naam sabse uncha hai</title>
+    </titles>
+    <authors>
+      <author>Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="HOGC Hindi Song"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>येशु तेरा नाम सबसे ऊँचा है<br/>Yeshu tera naam sabse uncha hai</lines>
+    </verse>
+    <verse name="v2">
+      <lines>जिस नाम में है मुक्ति<br/>जिस नाम में है शक्ति<br/>जिस नाम में है शांति<br/>देता वो नाम चंगाई<br/> <br/>Jis naam me hai mukti <br/>Jis naam me hai shakti <br/>Jis naam me hai shanti <br/>Deta wo naam changaaii</lines>
+    </verse>
+    <verse name="v3">
+      <lines>जिस नाम में है ज़िन्दगी <br/>येशु है वो नाम<br/>जिस नाम में है बंदगी <br/>येशु है वो नाम <br/> <br/>Jis naam me hai zindagi<br/>Yeshu hai wo naam <br/>Jis naam me hai bandagi <br/>Yehsu ha wo naam</lines>
+    </verse>
+    <verse name="v4">
+      <lines>येशु तेरा नाम सबसे ऊँचा है - ४<br/>Yeshu tera naam sabse uncha hai - 4</lines>
+    </verse>
+    <verse name="v5">
+      <lines>बीमारी से गरीबी से<br/>श्रापों से है छुडाता<br/>वो नाम है जो अंधो को <br/>रौशनी भी है देता <br/> <br/>Bimari se gareebi se<br/>Shraapo se hai churata <br/>Wo naam hao jo aandho ko <br/>Roshni bhi hai deta</lines>
+    </verse>
+  </lyrics>
+</song>

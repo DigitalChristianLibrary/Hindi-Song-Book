@@ -1,0 +1,37 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2018-01-31T06:55:09">
+  <properties>
+    <titles>
+      <title>Tu Mahan Hai</title>
+    </titles>
+    <authors>
+      <author>Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="HOGC Hindi Song"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>येशु नाम में चंगाई है <br/>येशु नाम उधार है <br/>येशु नाम से शैतान कापे <br/>येशु नाम से बीमारी भागे <br/> <br/>Tu Mahaan hai (4)<br/>Yeshu Naam mein changayee hai<br/>Yeshu Naam uddhaar hai<br/>Yeshu Naam se shaitaan kaanpe<br/>Yeshu Naam se bimaari bhaage<br/>तु महान है (4)</lines>
+    </verse>
+    <verse name="v2">
+      <lines>येशु नाम से टूटे दिल के <br/>टुकड़े टुकड़े फिर जुड़ जाए <br/>येशु नाम से घोर पापी <br/>घुटने के बल सर झुकाए (2)<br/> <br/>Yeshu Naam se toote dil ke <br/>tukde tukde phir jud jaaye<br/>Yeshu Naam se ghor paapi <br/>ghutne ke bal sar jhukaaye (2)</lines>
+    </verse>
+    <verse name="v3">
+      <lines>येशु नाम धरती पे गूंजे <br/>तोह प्रेमकी बारिश हो जाए <br/>येशु नाम से तनहा हारा <br/>फिर से नई आशा पाए (2)<br/>तु महान है (4)<br/>  <br/>Yeshu Naam dharti pe goonje <br/>toh premki baarish ho jaaye<br/>Yeshu Naam se tanha haara <br/>phir se nayi aasha paaye (2)<br/>Tu Mahaan hai (4)</lines>
+    </verse>
+    <verse name="v4">
+      <lines>येशु नाम जग सबसे ऊँचा <br/>येशु नाम है सबसे अच्छा <br/>येशु नाम मधुर सरगम से <br/>येशु नाम बड़ा मज़हब से <br/> <br/>Yeshu Naam jag sabse ooncha<br/>Yeshu Naam hai sabse accha<br/>Yeshu Naam madhur sargam se<br/>Yeshu Naam bada mazhab se</lines>
+    </verse>
+    <verse name="v5">
+      <lines>येशु नाम से गुप्त छुपे <br/>हर ज्ञान की प्राप्ति हो जाए <br/>येशु नाम वो दीपक है <br/>जिसे कोई भी भुजा ना पाए (2)<br/> <br/>Yeshu Naam se gupt chupe <br/>har gyaan ki praapti ho jaaye<br/>Yeshu Naam woh Deepak hai <br/>jise koi bhi na bujha paaye (2)</lines>
+    </verse>
+    <verse name="v6">
+      <lines>येशु नाम से प्राथना में जो मांगोगे, <br/>उसे पाओगे <br/>येशु नाम बंधिश में जकड़े <br/>कैदी को आज़ाद करे (2)<br/> <br/>Yeshu Naam se praarthana mein jo maangoge, <br/>use paaoge<br/>Yeshu Naam bandish mein jakde <br/>kaidi ko azaad karein (2)</lines>
+    </verse>
+    <verse name="v7">
+      <lines>तु महान है (4)<br/>TuMahaanhai (4)</lines>
+    </verse>
+  </lyrics>
+</song>

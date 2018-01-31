@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2018-01-31T06:55:08">
+  <properties>
+    <titles>
+      <title>Yeshu Masih Tere Jaisa Hai Koi Nahi</title>
+    </titles>
+    <authors>
+      <author>Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="HOGC Hindi Song"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>येशु मसीह तेरे जैसा है कोई नहीं<br/>येशु मसीह तेरे जैसा है कोई नहीं<br/>तेरे चरणों मे झुके आसमां<br/>और महिमा ग|ए सभी - २<br/> <br/>Yeshu masih, tere jaisa hai koin nahin<br/>Tere charno mein jhuke asmaan<br/>Aur mahima gayein zameen</lines>
+    </verse>
+    <verse name="v2">
+      <lines>हम गायें होसाना <br/>तू राजाओं का है राजा<br/>तेरी महिमा होवे सदा<br/>तू है प्रभु हमारा खुदा - २<br/> <br/>Hum Gayein hosaana<br/>Tu rajaon ka hai raja<br/>Teri mahima hove sada<br/>Tu hai prabhu, hamara khuda - 2</lines>
+    </verse>
+    <verse name="v3">
+      <lines>प्यारे पिता तुने हमसे<br/>कितना प्यार किया<br/>हमे पापों से छुडाने को<br/>अपने बेटे को कुर्बान किया<br/> <br/>Pyare pita tu ne hum se itna pyaar kiya<br/>Hume paapon se chudane ko<br/>Apne bete ko kurban kiya</lines>
+    </verse>
+  </lyrics>
+</song>

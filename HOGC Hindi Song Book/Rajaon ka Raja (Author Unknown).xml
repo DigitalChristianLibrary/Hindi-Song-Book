@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2018-01-31T06:55:03">
+  <properties>
+    <titles>
+      <title>Rajaon ka Raja</title>
+    </titles>
+    <authors>
+      <author>Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="HOGC Hindi Song"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>राजाओं का राजा है<br/>Rajao ka raja hai</lines>
+    </verse>
+    <verse name="v2">
+      <lines>राजाओं का राजा है<br/>वो प्रभुओं का प्रभु है <br/>प्रभु येशु मसीह<br/>प्रभु येशु मसीह<br/>Rajao ka raja hai,<br/>Woh prabhuon ka prabhu hai <br/>Prabhu yeshu masih,<br/>Prabhu yeshu masih</lines>
+    </verse>
+    <verse name="v3">
+      <lines>शत्रु को हरा दिया<br/>संसार को जीत लिया<br/>म्रत्यु से पार होकर<br/>अनंत जीवन दिया<br/>विधियों का वो लेख जो <br/>विरोध में था मिटा डाला <br/>Shatru ko hara diya,<br/>Sansaar ko jeet liya<br/>Mrityu se paar hokar<br/>Anant jeevan diya<br/>Vidhiyon ka woh lekh jo<br/>Virodh mein tha mita dala</lines>
+    </verse>
+    <verse name="v4">
+      <lines>बुलाये चुने हुए<br/>और विश्वासियों के नाम<br/>जय पाना ही है<br/>वचन का है यहोवा <br/>जब तक साँस रहे<br/>करे न हम विश्राम<br/>Bulaye chune hue,<br/>Aur Vishvasiyon ke naam<br/>Jai pana hi hai,<br/>Vachan ka hai aahwan<br/>Jab tak saans rahe,<br/>kare na hum vishraam</lines>
+    </verse>
+  </lyrics>
+</song>

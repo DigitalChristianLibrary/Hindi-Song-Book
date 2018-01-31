@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2018-01-31T06:55:02">
+  <properties>
+    <titles>
+      <title>Naam liyo re, Naam liyo re</title>
+    </titles>
+    <authors>
+      <author>Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="HOGC Hindi Song"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Naam liyo re, Naam liyo re<br/>Yeshu ka mangalkari naam liyore<br/> <br/>नाम लियो रे, नाम लियो रे<br/>येशु का मंगलकारी नाम लियो रे</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Paap harega, taap haarega - 2<br/>Pawan bhawan sundar<br/>mera yeshu ka naam - 2<br/> <br/>पाप हरेगा ताप हरेगा - २<br/>पवन भवन सुंदर<br/>मेरा येशु का नाम - २</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Shanti wo dega shakti wo dega - 2<br/>Pawan bhawan sundar<br/>Mera yeshu ka naam - 2<br/> <br/>शांति वो देगा शक्ति वो देगा - २<br/>पवन भवन सुंदर<br/>मेरा येशु का नाम - २</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Mukti wo dega, bhakti wo dega - 2<br/>Pawan bhawan sundar<br/>Mera yeshu ka naam - 2<br/> <br/>मुक्ति वो देगा भक्ति वो देगा  - २<br/>पवन भवन सुंदर<br/>मेरा येशु का नाम - २</lines>
+    </verse>
+  </lyrics>
+</song>

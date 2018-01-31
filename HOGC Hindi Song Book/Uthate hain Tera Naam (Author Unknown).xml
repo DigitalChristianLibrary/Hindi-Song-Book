@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2018-01-31T06:55:08">
+  <properties>
+    <titles>
+      <title>Uthate hain Tera Naam</title>
+    </titles>
+    <authors>
+      <author>Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="HOGC Hindi Song"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>उठाते हैं तेरा नाम <br/>तेरी स्तुति करते हुए <br/>घुटनों पर हम आ कर <br/>करते हैं तुझसे प्राथना <br/> <br/>Uthate hain tera Naam<br/>Teri stuti karte hue<br/>Ghutno par hum aa kar <br/>karte hai Tujh se Prarthana</lines>
+    </verse>
+    <verse name="v2">
+      <lines>मिल कर हम गायें <br/>प्रभु की स्तुति हो <br/>मिल कर हम गायें <br/>हालेलुयाह <br/>  <br/>Mil kar hum Gayien <br/>Prabhu ki Stuti ho<br/>Mil kar hum Gayien  <br/>Alleluia -3</lines>
+    </verse>
+    <verse name="v3">
+      <lines>आएगा मेरा येशु <br/>हमें लेने एक दिन <br/>जायेंगे हम उसके संग <br/>जहाँ पर होगा अनन्त जीवन <br/> <br/>Ayega mera Yesu<br/>hume lene ek din<br/>Jaayege hum uske sang <br/>jahan par hoga Anath jeevan</lines>
+    </verse>
+    <verse name="v4">
+      <lines>मिल कर हम गायें <br/>प्रभु की स्तुति हो <br/>मिल कर हम गायें <br/>हालेलुयाह <br/> <br/>Mil kar hum Gayien <br/>Prabhu ki Stuti ho<br/>Mil kar hum Gayien  <br/>Alleluia -3</lines>
+    </verse>
+  </lyrics>
+</song>

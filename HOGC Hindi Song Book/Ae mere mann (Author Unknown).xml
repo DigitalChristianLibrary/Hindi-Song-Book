@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2018-01-31T06:54:56">
+  <properties>
+    <titles>
+      <title>Ae mere mann</title>
+    </titles>
+    <authors>
+      <author>Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="HOGC Hindi Song"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Ae mere mann<br/>Prabhu ki tu aaraadhana kar<br/>Kyonki woh bhalaa hai<br/>ऐ मेरे मन<br/>प्रभु की तु आराधना कर<br/>क्योंकि वह भला है</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Upkaar kiye hai tujhpar<br/>Jab toone nahi jaanaa<br/>Phir bhi gale lagaayaa<br/>Kyonki Yeshu bhalaa hai<br/>उपकार किये है तुझपर<br/>जब तुने नही जाना<br/>फिर भी गले लगाया<br/>क्योंकी यीशु भला है</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Jab jaa raha andhakaar se<br/>Haath pakadkar chalaayaa<br/>Le aaya ujiyaale mein<br/>Kyonki Yeshu bhalaa hai<br/>जब जा रहा अंधकार से<br/>हाथ पकड़कर चलाया<br/>ले आया उजीयाले में<br/>क्योंकी यीशु भला है</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Vishwaas heen thaa tu<br/>Vishwaas tujhe dilaayaa<br/>Apnaa pyaar jatayaa<br/>Kyonki Yeshu bhalaa ha<br/>विश्वासहीन था तु<br/>विश्वास तुझे दिलाया<br/>अपना प्यार जताया<br/>क्योंकी यीशु भला है</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2018-01-31T06:54:55">
+  <properties>
+    <titles>
+      <title>Aao milke stuti karenge</title>
+    </titles>
+    <authors>
+      <author>Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="HOGC Hindi Song"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Aao milke stuti karenge<br/>आओ मिलके स्तुति करेंगे</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Aao milke stuti karenge<br/>Yeshu ki gun gaan karenge<br/>आओ मिलके स्तुति करेंगे<br/>येशु की गुणगान करेंगे</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Woh hi raja, woh masiha<br/>Mere jeevan ka sahara<br/>वो ही राजा, वो मसीहा<br/>मेरे जीवन का सहारा</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Naachenge, gaayenge, <br/>Dhoom machaadenge<br/>Yeshu ki gun gaan karenge<br/>नाचेंगे, गायेंगे, <br/>धूम मचा देंगे <br/>येशु की गुणगान करेंगे</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Jai jai bolo jai, Yeshu ki jai<br/>जय जय बोलो जय, येशु की जय</lines>
+    </verse>
+  </lyrics>
+</song>

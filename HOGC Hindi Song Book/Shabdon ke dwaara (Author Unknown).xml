@@ -1,0 +1,37 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2018-01-31T06:55:03">
+  <properties>
+    <titles>
+      <title>Shabdon ke dwaara</title>
+    </titles>
+    <authors>
+      <author>Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="HOGC Hindi Song"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>शब्दों के द्वारा ये धरती बनाई <br/>आधर और महिमा से मुझको सजाया तुने (2)<br/>मेरे दिल को तुने प्रेम से भरा <br/>मेरी ज़ुबान पर इन गीतों को डाला तुने (2)<br/> <br/>Shabdon ke dwaara yeh dharti banayi<br/>Aadar aur mahima se mujhko sajaaya<br/>Tune (2)<br/>Mere dil ko tune prem se bhara<br/>Meri zubaan par in geeton ko daala<br/>Tune (2)</lines>
+    </verse>
+    <verse name="v2">
+      <lines>कचरे की ज़िन्दगी जी रहा था <br/>मुर्दे की आत्मा तो लिए चला था <br/>टूटी आशा और मकसद खोया <br/>खुद को मैं गाड़ने चला था <br/> <br/>Kachre ki zindagi jee raha tha<br/>Murde ki aatma to liye chala tha<br/>Tooti aasha aur makhsad khoya<br/>Khud ko main gaadne chala tha</lines>
+    </verse>
+    <verse name="v3">
+      <lines>लेकिन जैसे येशु को जाना <br/>फिर से मुर्दे ने जीवन पाया <br/>बंधन टूटे और खुला आसमान <br/>फिर से नया जीवन पाया <br/> <br/>Lekin jaise Yeshu ko jaana<br/>Phir se is murde ne jeevan paaya<br/>bandan toote aur khula aasman<br/>Phir se naya jeevan paaya</lines>
+    </verse>
+    <verse name="v4">
+      <lines>कैसा तेरा प्यार है <br/>मेरा दिल ख़ुशी से झूमे नाचे <br/>कैसा तेरा नाम है <br/>अन्धे देखे, बेहरे सुने, मुर्दे जी उठे <br/> <br/>Kaisa Tera pyaar hai<br/>Mera dil khushi se jhoome naache<br/>Kaisa Tera Naam hai<br/>Andhe dekhe, behere sune, murde jee uthe</lines>
+    </verse>
+    <verse name="v5">
+      <lines>हर एक बूंद जो तुने क्रूस पर बहाया <br/>हर एक साँस की तेरे दान को पाया मैंने (2)<br/>मेरी मंजिल अब मेरे सामने <br/>तेरी आत्मा से मुझको चला दे येशु (2)<br/> <br/>Har ek boondh jo Tune kroos par bahaaya<br/>Har ek saans ki Tere daan ko paaya<br/>Maine (2)<br/>Meri manzil ab mere saamne<br/>Teri aatma se mujhko chalaa de<br/>Yeshu (2)</lines>
+    </verse>
+    <verse name="v6">
+      <lines>कचरे की ज़िन्दगी ....<br/>Kachre ki zindagi…</lines>
+    </verse>
+    <verse name="v7">
+      <lines>कैसा तेरा प्यार है.....<br/>Kaisa Tera Pyaar Hai…</lines>
+    </verse>
+  </lyrics>
+</song>

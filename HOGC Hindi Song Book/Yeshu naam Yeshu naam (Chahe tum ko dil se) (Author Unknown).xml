@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2018-01-31T06:55:05">
+  <properties>
+    <titles>
+      <title>Yeshu naam Yeshu naam (Chahe tum ko dil se)</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4 v5 v4</verseOrder>
+    <authors>
+      <author>Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="HOGC Hindi Song"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>येशु नाम येशु नाम (चाहे तुम को दिल से)<br/>Yeshu naam Yeshu naam (Chahe tum ko dil se)</lines>
+    </verse>
+    <verse name="v2">
+      <lines>चाहे तुम को दिल से<br/>गाए ये गीत मिल के<br/>तेरे नाम, येशु नाम की जय - २<br/>Chahe tum ko dil se<br/>Gaae ye geet mil ke<br/>Tere naam, Yeshu naam ki jai - 2</lines>
+    </verse>
+    <verse name="v3">
+      <lines>जिस नाम में है ज़िन्दगी<br/>वो नाम है येशु मसीह <br/>जिस नाम में है  बंदगी<br/>वो नाम है येशु मसीह<br/>Jis naam me hai zindagi<br/>Wo naam hai Yeshu Mashi<br/>Jis naam me hai bandagi<br/>Wo naam hai Yeshu Masih</lines>
+    </verse>
+    <verse name="v4">
+      <lines>येशु नाम येशु नाम - ६<br/>की जय ...<br/>Yeshu naam Yeshu naam -6<br/>Ki jai...</lines>
+    </verse>
+    <verse name="v5">
+      <lines>येशु नाम में मिलती है क्षमा <br/>येशु नाम में मिलती है शिफा<br/>येशु नाम में मिलती है कृपा<br/>येशु नाम में करना दुआ<br/>Yeshu naam me milti hai kshama<br/>Yeshu naam me milti hai shifa<br/>Yeshu naam me milti hai kripa<br/>Yeshu naam me karna dua</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,43 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2018-01-31T06:55:07">
+  <properties>
+    <titles>
+      <title>Ibadat karo</title>
+    </titles>
+    <authors>
+      <author>Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="HOGC Hindi Song"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>इबादत करो<br/>Ibadat karo</lines>
+    </verse>
+    <verse name="v2">
+      <lines>ए दुनिया के लोगो<br/>ऊँची आवाज़ करो<br/>गाओ ख़ुशी के गीत<br/>उसका गुणगान करो<br/> <br/>Aye duniya ke logon<br/>Unchi aawaz karo<br/>Gaao khushi ke geet<br/>Uska gungaan karo</lines>
+    </verse>
+    <verse name="v3">
+      <lines>इबादत करो उसकी <br/>इबादत करो - २<br/> <br/>Ibadat karo uski <br/>Ibadat karo - 2</lines>
+    </verse>
+    <verse name="v4">
+      <lines>याद रखो के वही एक खुदा है<br/>हम को ये जीवन उसी ने दिया है<br/>उस चारागाह से हम सब है आये<br/>हम्दो सन्ना के हम गीत गाए<br/> <br/>Yaad rakho ke wohi ek khuda hai<br/>Hum ko ye jeewan usine diya hai<br/>Us charagaah se hum sab hai aae<br/>Hum-do sanna ke hum geet gaye</lines>
+    </verse>
+    <verse name="v5">
+      <lines>रब का तुम शुक्र करो<br/>ऊँची आवाज़ करो<br/>गाओ ख़ुशी के गीत<br/>उसका गुणगान करो<br/> <br/>Rab ka tum shuker karo<br/>Unchi aawaz karo<br/>Gaao khushi ke geet<br/>Uska gungaan karo</lines>
+    </verse>
+    <verse name="v6">
+      <lines>इबादत करो उसकी <br/>इबादत करो - २<br/> <br/>Ibadat karo uski <br/>Ibadat karo - 2</lines>
+    </verse>
+    <verse name="v7">
+      <lines>नामे खुदावंद कितना मुबारख<br/>मेरा खुदावंद कितना भला है<br/>रहमत है उसकी सदियों पुरानी<br/>वफ़ा का अज़ल से येही सिलसिला है<br/> <br/>name khudawand kitna mubarakh<br/>mera khudawand kitna bhala hai<br/>rehmat hai uski sadiyon puraani<br/>wafa ka aazal se yehi silsila hai</lines>
+    </verse>
+    <verse name="v8">
+      <lines>उस पर ईमान धरो<br/>उसके घेर आओ चलो<br/>गाओ ख़ुशी के गीत<br/>उसका गुणगान करो<br/> <br/>us per imaan dharo<br/>uske ghar aao chalo <br/>gaao khushi<br/>ke geet uska gungaan karo</lines>
+    </verse>
+    <verse name="v9">
+      <lines>इबादत करो उसकी <br/>इबादत करो <br/> <br/>Ibadat karo uski <br/>Ibadat karo - 2</lines>
+    </verse>
+  </lyrics>
+</song>

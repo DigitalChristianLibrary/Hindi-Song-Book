@@ -1,0 +1,37 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2018-01-31T06:55:06">
+  <properties>
+    <titles>
+      <title>YOGYA  TU  HAI  YOGYA - you are worthy  (hindi)</title>
+    </titles>
+    <authors>
+      <author>Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="HOGC Hindi Song"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>YOGYA  TU  HAI  YOGYA</lines>
+    </verse>
+    <verse name="v2">
+      <lines>योग्य तू है योग्य, <br/>मेरी समझ से परे<br/>अंदाजा नहीं मुझे, <br/>तेरी महिमा कैसी है <br/> <br/>Yogya Tu hai yogya <br/>meri samajh se pareh<br/>Andaaza nahi mujhe <br/>Teri mahimaa kaisi hai</lines>
+    </verse>
+    <verse name="v3">
+      <lines>में न बतला पाऊँ <br/>कितना गहेरा तेरा प्रेम <br/>कानों ने सुना था प्रभु <br/>अब देखा आँखों ने<br/> <br/>Mein na batlaa paoon <br/>kitnaa gehera Tera prem<br/>Kanon ne suna tha Prabhu <br/>ab dekha aankhon ne</lines>
+    </verse>
+    <verse name="v4">
+      <lines><br/>तू योग्य, तू योग्य,<br/>तू योग्य<br/>तू है योग्य स्तुति के <br/>हमेशा के लिए <br/> <br/>Tu Yogya, Tu Yogya,<br/>Tu Yogya<br/>Tu hai yogya stuthi ke<br/>Humesha ke liye</lines>
+    </verse>
+    <verse name="v5">
+      <lines>महिमा दूं मैं उसे <br/>जिसने बचाया मुझको <br/>तूने खोजा और छुदाया <br/>मेरी शर्म से मुझको <br/> <br/>Mahimaa doon main use <br/>jisne bachaya mujhko<br/>Tune khoja aur chudaya <br/>Meri sharm se mujhko</lines>
+    </verse>
+    <verse name="v6">
+      <lines>बेबयान है करुना, <br/>अपार तेरा प्रेम <br/>कानों ने सुना था प्रभु <br/>अब देखा आँखों ने <br/> <br/>Bebayaan hai karuna, <br/>apaar Tera Prem<br/>Kanon ne suna tha Prabhu <br/>ab dekha aankhon ne</lines>
+    </verse>
+    <verse name="v7">
+      <lines>करें प्रशंसा गायें स्तुति गीत<br/>करें प्रशंसा तेरे नाम की <br/> <br/>Karein Prashansa Gayein Stuthi geet<br/>Karein Prashansha Tere Naam ki</lines>
+    </verse>
+  </lyrics>
+</song>

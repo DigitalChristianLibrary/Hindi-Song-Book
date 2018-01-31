@@ -1,0 +1,43 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2018-01-31T06:55:00">
+  <properties>
+    <titles>
+      <title>Lahoo Lahoo Yeshu ka Lahoo</title>
+    </titles>
+    <authors>
+      <author>Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="HOGC Hindi Song"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Lahoo Lahoo Yeshu ka Lahoo <br/>लहु लहु येशु का लहु</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Lahoo Lahoo Yeshu Ka Lahoo<br/>Gunahon se humko dhota hai x 2<br/>लहु लहु येशु का लहु <br/>गुनाहों से हमको धोता है  x २</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Masah Masah Masih ka masah<br/>Bandhan saare kholta hai  x 2<br/>मसाह मसाह मसीह का मसाह x २<br/>बंधन सारे खोलता है</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Bade bade na peeche hatein<br/>Khudawant ka rooh farmata hai x2<br/>बड़े बड़े ना पीछे हटे<br/>खुदावंत का रूह फरमाता है x २</lines>
+    </verse>
+    <verse name="v5">
+      <lines>&lt;s923&gt;Shamaa shamaa sampoorna shamaa x 2<br/>Paakh lahoo dilata hai<br/>&lt;/s&gt;क्षमा क्षमा संपूर्ण क्षमा x २<br/>पाक लहु दिलाता है पाक</lines>
+    </verse>
+    <verse name="v6">
+      <lines>Khuda khuda hamaara khuda<br/>Dil may rehna chahta hai x 2<br/>खुदा खुदा हमारा खुदा <br/>दिल मे रेहना चाहता है x २</lines>
+    </verse>
+    <verse name="v7">
+      <lines>Khuda khuda hamaara khuda x 2<br/>Rooh se bharna chahta hai<br/>खुदा खुदा हमारा खुदा x २ <br/>रूह से भरना चाहता है</lines>
+    </verse>
+    <verse name="v8">
+      <lines>Daray daray na hargiz daray<br/>Khudavanth ka rooh samjhata hai x 2<br/>डरे डरे ना हरगिज़ डरे<br/>खुदावंत का रूह समझाता है x २</lines>
+    </verse>
+    <verse name="v9">
+      <lines>Vijay vijay shaitaan par vijay x 2<br/>Yeshu masih dilaata hai<br/>विजय विजय शैतान पर विजय x २<br/>येशु मसीह दिलाता है</lines>
+    </verse>
+  </lyrics>
+</song>

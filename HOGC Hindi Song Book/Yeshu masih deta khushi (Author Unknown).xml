@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2018-01-31T06:55:05">
+  <properties>
+    <titles>
+      <title>Yeshu masih deta khushi</title>
+    </titles>
+    <authors>
+      <author>Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="HOGC Hindi Song"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Yeshu masih deta khushi<br/>येशु मसीह देता ख़ुशी</lines>
+    </verse>
+    <verse name="v2">
+      <lines>येशु मसीह देता ख़ुशी,<br/>करे महिमा उसकी,<br/>पैदा हुआ बना इंसान,<br/>देखो भागा शैतान,<br/>ला - ला - ला - ला  - २ <br/>Yeshu masih deta khushi<br/>Kare mahima uski,<br/>Paida hua bana insaan,<br/>Dekho bhaga shaitaan,<br/>La -la -la - la - 2</lines>
+    </verse>
+    <verse name="v3">
+      <lines>नारे लगाओ जय गीत गाओ, <br/>शैतान हुआ परेशान<br/>ताली बजाओ, नाचो गाओ,<br/>देखो भागा शैतान - २ <br/>Nare lagao jai geet gao,<br/>Shaitaan hua pareshaan<br/>Taali bajao, naacho gao<br/>Dekho bhaga shaitaan - 2</lines>
+    </verse>
+    <verse name="v4">
+      <lines>गिरने वालो उठो चलो, <br/>येशु बुलाता तुम्हे <br/>छोड़ दो डरना, अब काहे मरना,<br/>जिंदा हुआ है येशु - २ <br/>Girne walo utho chalo,<br/>Yeshi bulaata tumhe<br/>Chod do darna ab kahe marna,<br/>Zinda hua hai yeshu - 2</lines>
+    </verse>
+    <verse name="v5">
+      <lines>झुक जाएगा आसमा एक दिन, <br/>येशु राजा होगा बादलो पर<br/>देखेगी दुनिया, शान मसीह की,<br/>जुबां पे होगा एक गीत सभी के -  २ <br/>Jhuk jaega aasma ek din,<br/>Yeshu raaja hoga badlo per<br/>Dekhegi duniya, shane masih ki,<br/>Zubaa pe hoga ek geet sabhi ke - 2</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,38 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2018-01-31T06:55:01">
+  <properties>
+    <titles>
+      <title>Mukteshwar</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4 v5 v2 v6 v7</verseOrder>
+    <authors>
+      <author>Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="HOGC Hindi Song"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Mukteshwar / मुक्तेश्वर</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Dayawaan jo hai is jag mein<br/>Daya hogi un sab par bhi<br/>दयावान  जो है इस जग में <br/>दया होगी उन सब पर भी</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Bhajlé man Mukateshwar ji naam<br/>Ga lé man ga lé<br/>भजले मन मुकतेश्वर जी नाम <br/>गा ले मन गा ले</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Jo hai man ké deen jagat mein<br/>Dhanya dhanya weh log<br/>Kyonki swarg ka rajya hai unka<br/>Dhanya dhanya weh log<br/>जो है मन के दीन जगत में <br/>धन्य धन्य वे लोग <br/>क्योंकि स्वर्ग का राज्य है उनका <br/>धन्य धन्य वे लोग</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Shok jo karté hai is jag mei shanti payengé weh<br/>Namra hai jitané is dharti par adhikari hongé<br/>Dharma ke bhuké pyaasé hai jo<br/>Dhanya dhanya dhanya weh log<br/>Kyonki tripta kiyé ja-éngé<br/>Dhanya dhanya dhanya weh log<br/>शोक जो करते हैं इस जग में शांति पाएंगे वे <br/>नम्र है जितने इस धरती पर अधिकारी होंगे <br/>धर्म के भुके प्यासे हैं जो <br/>धन्य धन्य वे लोग <br/>क्योंकि तृपत किये जाएँगे <br/>धन्य धन्य धन्य वे लोग</lines>
+    </verse>
+    <verse name="v6">
+      <lines>Jinaké hriday shuddh hai jag mein<br/>Weh Parmeshwar ko dekhengé<br/>Mel karaané walé jo hai<br/>Khuda ké bété kehlayengé<br/>जिनके ह्रदय शुद्ध हैं जग में <br/>वे परमेश्वर को देखेंगे <br/>मेल कराने वाले जो हैं <br/>खुदा के बेटे कहलायेंगे</lines>
+    </verse>
+    <verse name="v7">
+      <lines>Our Father, who is in Heaven<br/>Holy is your name<br/>Your kingdom come your will be done on earth as it is in heaven<br/>ऑर फाधर, हु इस इन हेवन <br/>होली इस योर नेम <br/>योर किंगडम कम योर विल बी डन ऑन अर्थ एस इट इस इन हेवन</lines>
+    </verse>
+  </lyrics>
+</song>

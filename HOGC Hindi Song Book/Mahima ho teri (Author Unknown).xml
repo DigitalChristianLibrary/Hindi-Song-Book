@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2018-01-31T06:55:01">
+  <properties>
+    <titles>
+      <title>Mahima ho teri</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v2</verseOrder>
+    <authors>
+      <author>Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="HOGC Hindi Song"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>महिमा हो तेरी, महिमा हो तेरी<br/>करते हैं तेरी हम स्तुति<br/>ह्रदय की गहराईयों से - २<br/>येशु तू ही हैं, <br/>तू ही हैं हमारा प्रभु - २<br/>Mahima ho teri<br/>Karte hai teri hum stuti,<br/>Hriday ki gehraiiyon se -- 2<br/>Yeshu tu hi hai <br/>Tu hi hai humara prabhu -2</lines>
+    </verse>
+    <verse name="v2">
+      <lines>महिमा हो तेरी, महिमा हो तेरी <br/>Mahima ho teri, Mahima ho teri</lines>
+    </verse>
+    <verse name="v3">
+      <lines>आत्मा और सच्चाई से<br/>तेरी आराधना करें - २<br/>ऊँचा और ऊँचा <br/>सबसे ऊँचा रहे तेरा नाम } X २ <br/>Aatma or sachai se<br/>Teri aaradhana kare - 2<br/>Ooncha aur ooncha<br/>Sabse ooncha rahe tera naam } X 2</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,40 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2018-01-31T06:55:02">
+  <properties>
+    <titles>
+      <title>Aur Saamarth, Aur Pyaar</title>
+    </titles>
+    <authors>
+      <author>Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="HOGC Hindi Song"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>और सामर्थ, और प्यार <br/>चाहता हूँ मैं मेरे खुदा <br/>आराधना तेरी, मै करूँगा <br/>स्तुति तेरी गाता रहूँगा <br/> <br/>Aur Saamarth, Aur Pyaar<br/>Chahta hu mere khuda<br/>Aaradhana teri, mai karoonga<br/>Stuthi teri gaata rahoonga</lines>
+    </verse>
+    <verse name="v2">
+      <lines>आराधना तेरी, मै करूँगा <br/>सदा सर्वदा x 2<br/> <br/>Aaradhana teri, mai karoonga<br/>Sada sarvada x 2</lines>
+    </verse>
+    <verse name="v3">
+      <lines>येशु, इश्वर, तुम हो मेरे देवता,<br/>तेरी तारीफ़ मैं करूँगा <br/>तेरी पूजा मैं करूँगा <br/>तेरा दर्शन मैं करूँगा <br/>तु है मेरा देवता x 2<br/> <br/>Yeshu, ishwar, tum ho mere devta<br/>Teri taarif mai karoonga<br/>Teri puja mai karoonga<br/>Tera darshan mai karoonga<br/>Tu hai mera devta x 2</lines>
+    </verse>
+    <verse name="v4">
+      <lines>More love, more power<br/>More of you in my life<br/> <br/>मोर लव, मोरे पॉवर <br/>मोर ऑफ़ यु इन माय लाइफ </lines>
+    </verse>
+    <verse name="v5">
+      <lines>एन्ड आय विल वरशिप यु <br/>विथ आल ऑफ़ माय हार्ट <br/>एन्ड आय विल वरशिप यु <br/>विथ आल ऑफ़ माय माइंड<br/> <br/>And I will worship you<br/>with all of my heart<br/>And I will worship you<br/>with all of my mind</lines>
+    </verse>
+    <verse name="v6">
+      <lines>एन्ड आय विल वरशिप यु <br/>विथ आल ऑफ़ माय स्ट्रेंग्थ <br/>यु आर माय लॉर्ड  X 2<br/> <br/>And I will worship you<br/>with all of my strength<br/>You are my Lord X 2</lines>
+    </verse>
+    <verse name="v7">
+      <lines>एन्ड आय विल सीक यौर फेस <br/>विथ आल ऑफ़ माय हार्ट <br/>एन्ड आय विल सीक यौर फेस <br/>विथ आल ऑफ़ माय माइंड<br/> <br/>And I will seek your face <br/>With all of my heart<br/>And I will seek your face <br/>With all of my mind</lines>
+    </verse>
+    <verse name="v8">
+      <lines>एन्ड आय विल सीक यौर फेस <br/>विथ आल ऑफ़ माय स्ट्रेंग्थ <br/>फॉर यु आर ऑउर गॉड <br/>यु आर ऑउर गॉड <br/> <br/>And I will seek your face <br/>With all of my strength<br/>For you are our god<br/>You are our god</lines>
+    </verse>
+  </lyrics>
+</song>

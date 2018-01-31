@@ -1,0 +1,47 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2018-01-31T06:55:06">
+  <properties>
+    <titles>
+      <title>Yeshu Tu hai Zindagi</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4 v5 v4 v6 v7 v8 v9 v10 v7 v8</verseOrder>
+    <authors>
+      <author>Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="HOGC Hindi Song"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Yeshu Tu hai Zindagi</lines>
+    </verse>
+    <verse name="v2">
+      <lines>येशु तु है जिंदगी <br/>तु है बंदगी <br/>तु हमारा खुदा x 2<br/>  <br/>Yeshu Tu Hai Zindagi<br/>Tu Hai Bandagi<br/>Tu Hamara Khuda x 2</lines>
+    </verse>
+    <verse name="v3">
+      <lines>सचाई है तुही <br/>तु ज़िन्दगी का रास्ता <br/>तुझसा नहीं कोई <br/>तु है हमारा बादशा <br/>बादशा, बादशा <br/> <br/>Sachai Hai Tuhi<br/>Tu Zindagi Ka Rasta<br/>Tujsa Nahi Koi<br/>Tu Hai Hamara Badsha<br/>Badsha Badsha..</lines>
+    </verse>
+    <verse name="v4">
+      <lines>येशु तु है जिंदगी <br/>तु है बंदगी <br/>तु हमारा खुदा x 2<br/> <br/>Yeshu Tu Hai Zindagi<br/>Tu Hai Bandagi<br/>Tu Hamara Khuda x 2</lines>
+    </verse>
+    <verse name="v5">
+      <lines>करुणा  का तु सागर <br/>महीमा का तु है राजा <br/>साँसों में समा कर <br/>मेरे दिल में येशु आजा  x 2<br/>करते है अर्पण तुझे <br/>ये जिस्म और रूह जान <br/> <br/>Karuna Ka Tu Sagar<br/>Mahima Ka Tu Hai Raja<br/>Sanso Mein Sama Kar<br/>Mere Dil Mein Yeshu Aaja x 2<br/>Karte Hai Arpan Tujhe<br/>Ye Jisam Aur Ruh Jaan</lines>
+    </verse>
+    <verse name="v6">
+      <lines>निर्बल का तु बल है <br/>संकट में तु सहारा <br/>शांति हमें देता <br/>सब कुछ है तु हमारा x 2<br/>तेरे खून से हमको मिली <br/>मुक्ति मसीहा महान <br/> <br/>Nirabal ka Tu Bal Hai<br/>Sankat Mein Tu Sahara<br/>Shanti Hume Deta<br/>Sab Kuch Hai Tu Hamara x 2<br/>Tere Khoon Se Humko Mili<br/>Mukti Masiha Mahan</lines>
+    </verse>
+    <verse name="v7">
+      <lines>येशु तु है जिंदगी <br/>तु है बंदगी <br/>तु हमारा खुदा X 2<br/> <br/>Yeshu Tu Hai Zindagi<br/>Tu Hai Bandagi<br/>Tu Hamara Khuda-2</lines>
+    </verse>
+    <verse name="v8">
+      <lines>सचाई है तुही <br/>तु ज़िन्दगी का रास्ता <br/>तुझसा नहीं कोई <br/>तु है हमारा बादशा <br/>बादशा , बादशा <br/> <br/>Sachai Hai Tuhi<br/>Tu Zindagi Ka Rasta<br/>Tujsa Nahi Koi<br/>Tu Hai Hamara Badsha<br/>Badsha Badsha..</lines>
+    </verse>
+    <verse name="v9">
+      <lines>BRIGDE: <br/>ये आसमा गाये ज़मी <br/>करते हैं ये महिमा तेरी x 2<br/>ये आसमा गाये ज़मी<br/>गाये ज़मी x 3<br/>करते हैं ये महिमा तेरी <br/>महिमा तेरी </lines>
+    </verse>
+    <verse name="v10">
+      <lines>Ye Asma Gaye Zami<br/>Karte Hai Ye Mahima Teri x 2<br/>Ye Asma Gaye Zami...<br/>Gaye Zami x 3<br/>Karte Hai Ye Mahima Teri..<br/>Mahima Teri</lines>
+    </verse>
+  </lyrics>
+</song>

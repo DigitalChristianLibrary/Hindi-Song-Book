@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2018-01-31T06:54:57">
+  <properties>
+    <titles>
+      <title>Asmaanon se bhi tu ooncha hai</title>
+    </titles>
+    <authors>
+      <author>Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="HOGC Hindi Song"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Asmaanon se bhi tu ooncha hai</lines>
+    </verse>
+    <verse name="v2">
+      <lines>आसमानों से भी तू ऊँचा है <br/>सारे मंडल में तेरा महिमा है <br/>गाते हालेलुयाह, तेरी करुना महान <br/>गाते हालेलुयाह, तु महिमा प्रधान <br/>गाते हालेलुयाह, तु महिमा प्रधान <br/> <br/>Asmaanon se bhi tu ooncha hai<br/>Sare mandal mein tera mahima hai   <br/>Gate hallelujah, teri karuna mhaan<br/>Gate hallelujah, tu mahima pradhan<br/>Gate hallelujah, tu mahima pradhan</lines>
+    </verse>
+    <verse name="v3">
+      <lines>सारे दुतों की स्तुति तु ही है <br/>हर जुबां पर भी नाम तेरा है <br/>गाते हालेलुयाह, तेरी करुना महान <br/>गाते हालेलुयाह, तु महिमा प्रधान <br/>गाते हालेलुयाह, तु महिमा प्रधान <br/> <br/>Sare dootoon ki Stuti tu hee hai<br/>Har jubaan par bhi naam tera hai<br/>Gate hallelujah, teri karuna mhaan<br/>Gate hallelujah, tu mahima pradhan<br/>Gate hallelujah, tu mahima pradhan</lines>
+    </verse>
+    <verse name="v4">
+      <lines>सरे नामों से राजाओ से <br/>सारी श्रृष्टि से तु ऊँचा है<br/>गाते हालेलुयाह, तेरी करुना महान <br/>गाते हालेलुयाह, तु महिमा प्रधान <br/>गाते हालेलुयाह, तु महिमा प्रधान <br/> <br/>Sare naamon se rajaaoon se<br/>Sari shruti se tu ooncah hai<br/>Gate hallelujah, teri karuna mhaan<br/>Gate hallelujah, tu mahima pradhan<br/>Gate hallelujah, tu mahima pradhan</lines>
+    </verse>
+  </lyrics>
+</song>

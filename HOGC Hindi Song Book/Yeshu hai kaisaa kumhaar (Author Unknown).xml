@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2018-01-31T06:55:05">
+  <properties>
+    <titles>
+      <title>Yeshu hai kaisaa kumhaar</title>
+    </titles>
+    <authors>
+      <author>Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="HOGC Hindi Song"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>येशु है कैसा कुमहार <br/>ओ भइया <br/>येशु है कैसा कुमहार <br/> <br/>Yeshu hai kaisaa kumhaar <br/>o bhaiyaa <br/>Yeshu hai kaisaa kumhaar</lines>
+    </verse>
+    <verse name="v2">
+      <lines>मोटा बनाया, अच्छा बनाया   X  2<br/>पतला बनाया, अच्छा बनाया    X 2<br/> <br/>Motaa banaayaa, acchaa banaayaa X 2<br/>Patlaa banaayaa, acchaa banaayaa X 2</lines>
+    </verse>
+    <verse name="v3">
+      <lines>गोरा बनाया, अच्छा बनाया   X 2<br/>काला बनाया, अच्छा बनाया  X 2<br/> <br/>Goraa banaayaa acchaa banaayaa X 2<br/>Kaalaa banaayaa, acchaa banaayaa X 2</lines>
+    </verse>
+    <verse name="v4">
+      <lines>लम्भु बनाया, अच्छा बनाया   X 2<br/>टिंगू बनाया, अच्छा बनाया  X 2<br/> <br/>Lambu banaayaa, acchaa banaayaa X 2<br/>Tingu banaayaa, acchaa banaayaa X 2</lines>
+    </verse>
+  </lyrics>
+</song>

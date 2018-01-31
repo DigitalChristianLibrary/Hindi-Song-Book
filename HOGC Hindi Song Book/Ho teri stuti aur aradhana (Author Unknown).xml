@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2018-01-31T06:54:59">
+  <properties>
+    <titles>
+      <title>Ho teri stuti aur aradhana</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4 v5 v6 v3</verseOrder>
+    <authors>
+      <author>Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="HOGC Hindi Song"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>हो तेरी स्तुति और आराधना <br/>Ho teri stuti aur aradhana</lines>
+    </verse>
+    <verse name="v2">
+      <lines>हो तेरी स्तुति और आराधना <br/>करता हूँ मै तुझ से ये प्रार्थना <br/>महिमा से तेरी तू इस जगह को भर <br/>जो भी तू चाहे तू यहाँ पर कर <br/>Ho teri stuti aur aradhana<br/>Karta hun mein tujse yeh prathana<br/>Mahima se teri tu is jagah ko bhar<br/>Jo bhi tu chahe tu yahan par kar</lines>
+    </verse>
+    <verse name="v3">
+      <lines>हाले - हाल्लेलुयाह - हाल्लेलुयाह - हाल्लेलु <br/>हाले - हाल्लेलुयाह - हाल्लेलुयाह - हाल्लेलु<br/>Hale-hallelujah-hallelujah-hallelu<br/>Hale-hallelujah-hallelujah-hallelu</lines>
+    </verse>
+    <verse name="v4">
+      <lines>करुणा से तेरी नया दिन दिखता है <br/>ढाल बन कर मेरी मुझे बचाता है <br/>जब मै पुकारू तू दौड़ आता है <br/>जब मै गिरू मुझे उठाता है <br/>Karuna se teri naya din dhikata hai<br/>Dhal banker meri mujhe bachata hai<br/>Jab mein pukaru tu daude aata hai<br/>Jab mein giru mujhe uthata hai</lines>
+    </verse>
+    <verse name="v5">
+      <lines>हाले - हाल्लेलुयाह - हाल्लेलुयाह - हाल्लेलु <br/>हाले - हाल्लेलुयाह - हाल्लेलुयाह – हाल्लेलु<br/>Hale-hallelujah-hallelujah-hallelu<br/>Hale-hallelujah-hallelujah-hallelu</lines>
+    </verse>
+    <verse name="v6">
+      <lines>सारे जहाँ मै तुझ सा कोई नहीं <br/>तुझ को छोड़ कोई प्रभु है ही नहीं <br/>घुटने मै टेकुं बस तेरे सामने <br/>तू है मेरा प्रभु तू मेरा पिता <br/>Sare jahan mein tujhsa koi nahi<br/>Tojhko chod koyi prabhu hai hi nahi<br/>Ghutne mein teku bas tere saamne<br/>Tu hai mera prabhu tu mera pita</lines>
+    </verse>
+  </lyrics>
+</song>

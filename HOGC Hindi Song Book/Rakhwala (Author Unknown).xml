@@ -1,0 +1,34 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2018-01-31T06:55:03">
+  <properties>
+    <titles>
+      <title>Rakhwala</title>
+    </titles>
+    <authors>
+      <author>Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="HOGC Hindi Song"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>हर मुसीबत में मुझको संभाला <br/>हर मुसीबत में सबको संभाला <br/>रखवाला, येशु है रखवाला<br/> <br/>Har musibat mein  mujhko sambhala<br/>Har musibat mein sabko  sambhala<br/>Rakhwala yeshu hai rakhwala</lines>
+    </verse>
+    <verse name="v2">
+      <lines>रखवाला आ...<br/>रखवाला येशु है रखवाला<br/> <br/>Rakhwala aa..<br/>Rakhwala yeshu hai rakhwala</lines>
+    </verse>
+    <verse name="v3">
+      <lines>हर मुसीबत में वो काम आया मुझे <br/>मरते मरते येशु ने बचाया मुझे <br/>मरते मरते, मरते मरते<br/>मरते मरते येशु ने बचाया मुझे <br/> <br/>Har musibat meih woh kaam ayaa  mujhe<br/>Marte marte yeshu ne bachaya mujhe<br/>Marte marte marte marte<br/>Marte marte yeshu ne bachaiya mujhe</lines>
+    </verse>
+    <verse name="v4">
+      <lines>जब मसीहा का दीदार हो जायेगा <br/>तेरा बिगड़ा हुआ काम बन जायेगा <br/>तेरा बिगड़ा ... तेरा बिगड़ा<br/>तेरा बिगड़ा हुआ काम बन जायेगा <br/> <br/>Jab masiha ka didar ho jayaega<br/>Tera bigdaa hua kaam ban jayega<br/>Tera bigdaa ... tera bigdaa<br/>Tera bigdaa hua kaam ban jayega</lines>
+    </verse>
+    <verse name="v5">
+      <lines>वो धरती का राजा वो सरकार है <br/>निराला मसीहा का दरबार है <br/>निराला ... निराला <br/>निराला मसीहा का दरबार है <br/> <br/>Woh dharti ka raja woh sarkar hai<br/>Nirala masiha ka darbar hai<br/>Nirala.. Nirala<br/>Nirala masiha ka darbar hai</lines>
+    </verse>
+    <verse name="v6">
+      <lines>मेरी कश्ती को फिर से किनारा मिला <br/>उसके नज़रे करम का सहारा मिला <br/>उसके नज़रे ... उसके नज़रे<br/>उसके नज़रे करम का सहारा मिला <br/> <br/>Meri kashti ko phir se kinara mila<br/>Uske nazre karam ka sahara mila<br/>Uske nazre  .. Uske nazre<br/>Uske nazre karam ka sahara mila</lines>
+    </verse>
+  </lyrics>
+</song>

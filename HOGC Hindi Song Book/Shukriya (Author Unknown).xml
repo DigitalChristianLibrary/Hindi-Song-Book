@@ -1,0 +1,40 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2018-01-31T06:55:04">
+  <properties>
+    <titles>
+      <title>Shukriya</title>
+    </titles>
+    <authors>
+      <author>Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="HOGC Hindi Song"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Shukriya / शुक्रिया</lines>
+    </verse>
+    <verse name="v2">
+      <lines>क्या दे सकता हूं <br/>क्या ला सकता हूँ <br/>केहता बस तुझे शुक्रिया <br/> <br/>Kya de sakta hoon<br/>Kya la sakta hoon<br/>Kehta bas tujhe shukriya</lines>
+    </verse>
+    <verse name="v3">
+      <lines>तुझमें ही मेरी सुबह<br/>तुझमें ही हर श्याम <br/>तुझसे ही करता शुरू <br/>हर कोई काम <br/> <br/>Tujhme hee mer subah<br/>Tujhme hee har shaam<br/>Tujhse hee karta shuroo<br/>Har koi kaam</lines>
+    </verse>
+    <verse name="v4">
+      <lines>शुक्रिया करता हूं मैं <br/>लेके तेरा नाम <br/>आधर और धन्यवाद आज तेरे ताम <br/> <br/>Shukriya karta hoon main<br/>Leke tera naam<br/>Aadhar aur dhanyavad aaj tere naam</lines>
+    </verse>
+    <verse name="v5">
+      <lines>शुक्रिया शुक्रिया शुक्रिया तेरा <br/>शुक्रिया शुक्रिया शुक्रिया येशु तेरा <br/> <br/>Shukriya Shukriya Shukriya tera<br/>Shukriya Shukriya Shukriya Yeshu tera</lines>
+    </verse>
+    <verse name="v6">
+      <lines>सारी दुनिया तेरी है <br/>सबकुछ तुने रचाया है <br/>मुझको भी तुने बनाया है <br/>तेरे जैसा किया है <br/> <br/>Saree duniya teri hai<br/>Sabkuch tune rachaaya hai<br/>Mujhko bhi tune banaya hai<br/>Tere jaisa kiya hai</lines>
+    </verse>
+    <verse name="v7">
+      <lines>तुझमे ही मेरी सुबह <br/>तुझमे ही हर शाम <br/>शुक्रिया शुक्रिया शुक्रिया तेरा <br/>शुक्रिया शुक्रिया शुक्रिया येशु तेरा</lines>
+    </verse>
+    <verse name="v8">
+      <lines>Tujhme hee meree subhah<br/>Tujhme hee har shaam<br/>Shukriya Shukriya Shukriya tera<br/>Shukriya Shukriya Shukriya Yeshu tera</lines>
+    </verse>
+  </lyrics>
+</song>

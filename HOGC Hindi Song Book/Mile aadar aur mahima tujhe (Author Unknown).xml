@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2018-01-31T06:55:01">
+  <properties>
+    <titles>
+      <title>Mile aadar aur mahima tujhe</title>
+    </titles>
+    <authors>
+      <author>Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="HOGC Hindi Song"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>MILE AADAR<br/>मिले आदर</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Mile aadar aur mahima tujhe<br/>Gyan aur dhanyawad prabhu<br/>Mile stuti aur shakti <br/>Prashansa<br/>Sada sarvada<br/>Sarvashaktimaan parbhu <br/>Parmeshawar<br/>Jo hai aur tha aur rahega<br/>Teri hi mahima hove sada<br/>Mere jivan mein<br/> <br/>मिले आदर और महिमा तुझे <br/>ज्ञान और धन्यवाद प्रभु <br/>मिले स्तुति  और शक्ति <br/>प्रशंसा <br/>सदा सर्वदा <br/>सर्वशक्तिमान प्रभु <br/>परमेश्वर <br/>जो है और था और रहेगा <br/>तेरी ही महिमा होवे सदा <br/>मेरे जीवन में</lines>
+    </verse>
+  </lyrics>
+</song>

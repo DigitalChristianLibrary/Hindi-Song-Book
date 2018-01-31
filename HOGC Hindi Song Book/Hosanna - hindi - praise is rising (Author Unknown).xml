@@ -1,0 +1,43 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2018-01-31T06:54:59">
+  <properties>
+    <titles>
+      <title>Hosanna - hindi - praise is rising</title>
+    </titles>
+    <authors>
+      <author>Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="HOGC Hindi Song"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Hosanna (praise is rising)</lines>
+    </verse>
+    <verse name="v2">
+      <lines>स्तुति गायें,<br/>आंखें उठाते हैं हम <br/>तेरी ओर<br/> <br/>Stuthi gaayein, <br/>Ankhein uthaate hain hum <br/>Teri or.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>आशा लेके <br/>यह दिल तरसे तेरे लिए <br/>तेरे लिए <br/> <br/>Aasha leke, <br/>Yeh dil tarse tere liye,<br/>Tere liye.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>तेरे दर्शन से नए <br/>दिन का बल मिले,<br/>तेरे पास,<br/>प्रभु हम निडर बने, <br/>निडर बने <br/>  <br/>Tere darshan se naye <br/>Din ka bal mile;<br/>Tere paas, <br/>Prabhu hum nidar bane, <br/>Nidar bane.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>होसाना, होसाना<br/>तु प्रभु तारनहार <br/>योग्य हर स्तुति का <br/>   <br/>Hosanna, hosa na, <br/>Tu prabhu taranhaar, <br/>Yogya har stuthi ka.</lines>
+    </verse>
+    <verse name="v6">
+      <lines>होसाना, होसाना<br/>पूरी हो तेरी इच्छा <br/>स्वागत है येशु राजा<br/> <br/>Hosan - na, hosan - na, <br/>Poori ho teri iccha<br/>Swagat hai yeshu raaja.</lines>
+    </verse>
+    <verse name="v7">
+      <lines>दिल की सुन्न पुकार,<br/>लौट कर आयें तेरी ओर,<br/>तेरी ओर<br/> <br/>Dil ki sunn pukar, <br/>Laut kar aayein teri or,<br/>Teri or</lines>
+    </verse>
+    <verse name="v8">
+      <lines>तेरे राज्य में <br/>टूटे नया जीवन पते हैं <br/>तू करता नया <br/> <br/>Tere raajya mein <br/>Toote naya jeevan pate hain<br/>Tu karta naya.</lines>
+    </verse>
+    <verse name="v9">
+      <lines>होसा - ना, होसा - ना<br/>होसा - ना, होसा - ना<br/> <br/>Hosan - na, hosan - na.<br/>Hosan - na, hosan - na.</lines>
+    </verse>
+  </lyrics>
+</song>

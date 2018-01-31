@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2018-01-31T06:55:01">
+  <properties>
+    <titles>
+      <title>Le chal Mujhe</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4 v5 v6 v4</verseOrder>
+    <authors>
+      <author>Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="HOGC Hindi Song"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>ले चल मुझे<br/>Le chal Mujhe</lines>
+    </verse>
+    <verse name="v2">
+      <lines>ले चल मुझे, ले चल मुझे<br/>तू है जहा ले चल मुझे<br/>ले चल मुझे, ले चल मुझे<br/>तेरे सिंहासन के पास ले चल मुझे<br/>Le chal mujhe, le chal mujhe<br/>Tu hai jaha, le chal mujhe<br/>Le chal mujhe, le chal mujhe<br/>Tere sinhasan ke paas le chal mujhe</lines>
+    </verse>
+    <verse name="v3">
+      <lines>मै तेरे पास आता हूँ, पवित्र दिल से<br/>आराधना मै करता हूँ प्रेमी मन से <br/>तुझे ढूँढता हुआ, तुझे चाहता हुआ<br/>मुझे खीच ले मै दौडूंगा <br/>Mai tere paas aata hun, pavitra dil se<br/>Aaradhna mai kerta ahun, premi man se<br/>Tujhe dhoondta hua, tujhe chahta hua<br/>Mujhe kheenchle mai daudoonga</lines>
+    </verse>
+    <verse name="v4">
+      <lines>ले चल मुझे  - २<br/>तू है जहा ले चल मुझे<br/>ले चल मुझे - २<br/>तेरे सिंहासन के पास ले चल मुझे<br/>Le chal mujhe - 2<br/>Tu hai jaha, le chal mujhe<br/>Le chal mujhe - 2<br/>Tere sinhasan ke paas le chal mujhe</lines>
+    </verse>
+    <verse name="v5">
+      <lines>तेरे पवित्र स्थान में तू मुझे ले चल<br/>तुझे देखना मै चाहता हूँ, हेर घड़ी हर पल <br/>तुझे ढूँढता हुआ, तुझे चाहता हुआ<br/>मुझे खीच ले मै दौडूंगा <br/>Tere pavitra sthaan me tu mujhe le chal<br/>Tujhe dekhna mai chahta hun, her ghadi her pal<br/>Tujhe dhoondta hua, tujhe chahta hua<br/>Mujhe cheenchle mai daudoonga</lines>
+    </verse>
+    <verse name="v6">
+      <lines>जैसे हिरनी पानी के लिए<br/>प्यासा मै भी हु तेरे लिए <br/>तुझे ढूँढता हुआ, तुझे चाहता हुआ<br/>मुझे खीच ले मै दौडूंगा <br/>तुझे ढूँढता हुआ, तुझे चाहता हुआ<br/>मुझे खीच ले मै दौडूंगा <br/>Jaise hirni paani ke liye<br/>Pyaasa mai bhi hun tere liye<br/>Tujhe dhoondta hua, tujhe chahta hua<br/>Mujhe kheench le mai daudoonga<br/>Tujhe dhoondta hua, tujhe chahta hua<br/>Mujhe kheench le mai daudoonga</lines>
+    </verse>
+  </lyrics>
+</song>

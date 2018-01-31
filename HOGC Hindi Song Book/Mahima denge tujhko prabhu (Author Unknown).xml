@@ -1,0 +1,40 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2018-01-31T06:55:09">
+  <properties>
+    <titles>
+      <title>Mahima denge tujhko prabhu</title>
+    </titles>
+    <authors>
+      <author>Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="HOGC Hindi Song"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>महिमा देंगे तुझको प्रभु <br/>Mahima denge tujhko prabhu</lines>
+    </verse>
+    <verse name="v2">
+      <lines>महिमा देंगे तुझको प्रभु  <br/>महिमा तुझको प्रभु  <br/>तेरा नाम महान और सबसे ऊँचा है <br/>  <br/>Mahima denge tujhko prabhu<br/>mahima tujhko prabhu<br/>Tera naam mahaan aur sabse uncha hai</lines>
+    </verse>
+    <verse name="v3">
+      <lines>पावन कहते तुझको प्रभु  <br/>पावन तुझको प्रभु  <br/>तेरा नाम महान और सबसे ऊँचा है <br/> <br/>Paawan kehte tujhko prabhu<br/>Paawan tujhko prabhu<br/>Tera naam mahaan aur sabse uncha hai</lines>
+    </verse>
+    <verse name="v4">
+      <lines>आदर देंगे तुझको प्रभु  <br/>आदर तुझको प्रभु <br/>तेरा नाम महान और सबसे ऊँचा है <br/> <br/>Aader denge tujhko prabhu<br/>Aader tujhko prabhu<br/>Tera naam mahaan aur sabse uncha hai</lines>
+    </verse>
+    <verse name="v5">
+      <lines>येशु कहते तुझको प्रभु<br/>येशु तुझको प्रभु  <br/>तेरा नाम महान और सबसे ऊँचा है <br/>  <br/>Yeshu kehte tujhko prabhu<br/>Yeshu tujko prabhu<br/>Tera naam maahaan aur sabse uncha hai</lines>
+    </verse>
+    <verse name="v6">
+      <lines>----------------------------------</lines>
+    </verse>
+    <verse name="v7">
+      <lines>I sing praises to Your name oh Lord,<br/>praises to Your name oh Lord<br/>For Your name is great and greatly to be praised<br/> <br/>आय सिंग प्रेज़ेस टू योर नेम ओह लोर्ड,<br/>प्रेज़ेस टू योर नेम ओह लोर्ड <br/>फॉर यौर नेम इस ग्रेट एन्ड ग्रेटली टू बी प्रेसड</lines>
+    </verse>
+    <verse name="v8">
+      <lines>I give glory to Your name oh Lord, <br/>glory to Your name oh Lord<br/>For Your name is great and greatly to be praised<br/> <br/>आय गिव गलोरी टू योर नेम ओह लोर्ड <br/>गलोरी टू योर नेम ओह लोर्ड <br/>फॉर यौर नेम इस ग्रेट एन्ड ग्रेटली टू बी प्रेसड</lines>
+    </verse>
+  </lyrics>
+</song>

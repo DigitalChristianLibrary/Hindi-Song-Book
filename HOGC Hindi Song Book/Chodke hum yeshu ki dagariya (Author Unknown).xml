@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2018-01-31T06:54:58">
+  <properties>
+    <titles>
+      <title>Chodke hum yeshu ki dagariya</title>
+    </titles>
+    <authors>
+      <author>Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="HOGC Hindi Song"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>छोडके  हम येशु की डगरिया <br/>कहां जाए सवरिया <br/>जाए सवरिया कहां जाए सवरिया <br/> <br/>Chodke hum yeshu ki dagariya, <br/>kahawa jaayee sawariya<br/>Jaaye sawariya kahawa jaayee sawariya</lines>
+    </verse>
+    <verse name="v2">
+      <lines>येशु की डगरिया में मुक्ति मिलत है <br/>मुक्ति मिलत है जी भक्ति मिलत है <br/>भक्ति मिलत है जी मुक्ति मिलत है<br/>और मिले साची डगरिया<br/>कहां जाए सवरिया <br/> <br/>Yeshu ki dagariya main mukti milat hai, mukti milat hai ji bhakti milat hai<br/>Bhakti milat hai ji mukti milat hai<br/>Aur mile saachi dagariya, <br/>kahawa jaayee sawariya</lines>
+    </verse>
+    <verse name="v3">
+      <lines>येशु की डगरिया में शान्ति मिलत है <br/>शान्ति मिलत है  जी शक्ति मिलत है <br/>शक्ति मिलत है  जी शान्ति मिलत है <br/>और मिले क्षमा की चुनरिया <br/>कहां जाए सवरिया <br/> <br/>Yeshu ki dagariya main shanty milat hai, shanty milat hai ji shakti milat hai<br/>Shakti milat hai ji, shanty milat hai<br/>Aur mile Kshama ki chunariya, kahawa jaayee sawariya</lines>
+    </verse>
+    <verse name="v4">
+      <lines>येशु की डगरिया में श्राप छुडत है <br/>श्राप छुडत है जी पाप धुलत है <br/>और धुले मन की कोठरिया <br/>कहां जाए सवरिया <br/> <br/>Yeshu ki dagari main shraap chutath hai, shraap chutath hai ji paap dhulat hai<br/>Aur dhule man ki kothariya, <br/>kahawa jaayee sawariya</lines>
+    </verse>
+    <verse name="v5">
+      <lines>येशु की डगरिया में अन्धे देखत है <br/>अन्धे देखत है  जी लंगड़े चलत है <br/>और जिए मुर्दा शरिवा <br/>कहां जाए सवरिया <br/> <br/>Yeshu ki dagariya main aandhe dekhat hai, aandhe dekhat hai ji langde chalet hai<br/>Aur jiye murda sharirawa, <br/>kahawa jaayee sawariya</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,56 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2018-01-31T06:55:07">
+  <properties>
+    <titles>
+      <title>Meri ruh Khuda ki pyasi hai</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4 v5 v4 v6 v7 v8 v9 v10 v11 v10 v12 v13</verseOrder>
+    <authors>
+      <author>Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="HOGC Hindi Song"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>मेरी रूह खुदा की प्यासी है</lines>
+    </verse>
+    <verse name="v2">
+      <lines>मेरी रूह खुदा की प्यासी है - २<br/>जैसे हिरनी पानी के नालो को तरसती है<br/>मेरी रूह खुदा की प्यासी है - २</lines>
+    </verse>
+    <verse name="v3">
+      <lines>रात और दिन आंसू बहते है<br/>दुनिया वाले सब कहते है<br/>है कौन कहा है तेरा खुदा<br/>क्यों है इतना बेचैन ये दिल<br/>क्यों जान ये गिरती जाती है<br/>होगा किस दिन दीदार तेरा<br/>कब होगा मिलना रु-बरु<br/>मेरी रूह ....</lines>
+    </verse>
+    <verse name="v4">
+      <lines>मेरी रूह खुदा की प्यासी है - २</lines>
+    </verse>
+    <verse name="v5">
+      <lines>येरदान की ज़मीं से गाऊंगा<br/>कोहे मिज्गार से गाऊंगा<br/>गहराओं से गहराओं तक<br/>रात और दिन होगा तेरा करम<br/>मै गीत दुआ के गाऊंगा<br/>वो मुझ पे करे आपनी रहमत<br/>है मेरी बस ये आरजू<br/>मेरी रूह</lines>
+    </verse>
+    <verse name="v6">
+      <lines>दुश्मन की मलामत पीर सी है<br/>क्यों उसके ज़ुल्म का शोक करूँ<br/>चट्टान है मेरी मेरा खुदा<br/>वो मुझ से ये हरदम कहते है<br/>है कौन कहाँ है तेरा खुदा<br/>होगा किस दिन दीदार तेरा<br/>मेरे टूटे दिल की आस है तू<br/>मेरी रूह ....</lines>
+    </verse>
+    <verse name="v7">
+      <lines>मेरी खुदा की प्यासी है - २<br/>जैसे हिरनी पानी के नालो को तरसती है<br/>मेरी रूह खुदा की प्यासी है - २<br/></lines>
+    </verse>
+    <verse name="v8">
+      <lines>Meri ruh Khuda ki pyasi hai<br/>Meri ruh Khuda ki pyasi hai - 2<br/>jaise hirni pani ke nalo ko tarasti hai<br/>Meri ruh Khuda ki pyasi hai - 2</lines>
+    </verse>
+    <verse name="v9">
+      <lines>Raat aur din aansu behte hai<br/>duniya wale sab kehte hai<br/>hai kaun kaha hai tera khuda<br/>kyo hai itna bechain ye dil<br/>kyo jaan ye girti jaati hai<br/>hoga kis din deedaar tera<br/>kab hoga milna rubaru<br/>meri ruh....</lines>
+    </verse>
+    <verse name="v10">
+      <lines>Meri ruh Khuda ki pyasi hai - 2</lines>
+    </verse>
+    <verse name="v11">
+      <lines>Yerda ki zami se gaunga<br/>kohe mizgaar se gaunga<br/>gehraaoon se gehraoon tak<br/>rat aur din hoga tera karam<br/>mai geet dua ke gaunga<br/>wo mujh pe kare meri rehmat<br/>hai meri bus ye aarzoo<br/>meri ruh</lines>
+    </verse>
+    <verse name="v12">
+      <lines>Dushman ki malamat peer se hai<br/>kyo uske zulm ka shok karun<br/>chattan hai meri mera khuda<br/>wo mujh se ye herdam kehte hai<br/>hai kaun kaha hai tera khuda<br/>hoga bkis din deedaar tera<br/>mere tute dil ki aas hai tu<br/>meri ruh....</lines>
+    </verse>
+    <verse name="v13">
+      <lines>Meri ruh Khuda ki pyasi hai - 2<br/>jaise hirni pani ke nalo ko tarasti hai<br/>Meri ruh Khuda ki pyasi hai - 2</lines>
+    </verse>
+  </lyrics>
+</song>

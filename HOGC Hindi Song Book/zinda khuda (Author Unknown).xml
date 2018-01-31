@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2018-01-31T06:55:08">
+  <properties>
+    <titles>
+      <title>zinda khuda</title>
+    </titles>
+    <authors>
+      <author>Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="HOGC Hindi Song"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>हम खड़े हैं तेरे सामने, आराधना के लिए <br/>हम खड़े हैं तेरे सामने, स्तुति के लिए <br/> <br/>Hum khade hain tere saamne, <br/>aaradhana ke liye<br/>Hum khade hain tere saamne, <br/>stuti ke liye</lines>
+    </verse>
+    <verse name="v2">
+      <lines>हाथ उठाकर, सर झुकाकर <br/>आराधना के लिए <br/>घुटने टेक कर, सर झुकाकर <br/>आराधना के लिए <br/> <br/>haath uthakar, sar jhukakarr<br/>aaradhana ke liye<br/>ghutne tek kar, sar jhukakar <br/>aaradhana ke liye</lines>
+    </verse>
+    <verse name="v3">
+      <lines>तेरी आराधना,<br/>ज़िन्दा खुदा, तु है ज़िन्दा खुदा <br/>येशुआ <br/>तेरी आराधना, तेरी आराधना करें <br/>  <br/>Teri Aaradhana, <br/>Zinda khuda, <br/>tu hai zinda khuda, <br/>Yeshuaa<br/>Teri Aaradhana, Teri Aaradhana, karein</lines>
+    </verse>
+  </lyrics>
+</song>

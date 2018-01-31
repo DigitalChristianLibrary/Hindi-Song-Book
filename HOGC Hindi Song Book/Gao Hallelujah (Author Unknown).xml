@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2018-01-31T06:54:58">
+  <properties>
+    <titles>
+      <title>Gao Hallelujah</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4 v3 v5 v3</verseOrder>
+    <authors>
+      <author>Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="HOGC Hindi Song"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>गाओ हल्लेलुया<br/>Gao Hallelujah</lines>
+    </verse>
+    <verse name="v2">
+      <lines>यीशु ने हमें है छुडाया पापों के जाल से<br/>यीशु ने हमें बचाया शैतान की चाल से – २<br/>Yeshu ne hame chudaya hai paapon key jal se<br/>Yeshu ne hame bachaya sahitan ki chal se 2</lines>
+    </verse>
+    <verse name="v3">
+      <lines>तो गाओ हल्लेलुया<br/>To gao hallelujah</lines>
+    </verse>
+    <verse name="v4">
+      <lines>हम ने शांति पाई है यीशु के नाम से<br/>हम ने पाई है शमा मुक्ति श्रापों से<br/>Hum ne shanti payi hai yeshu ke naam se<br/>Hum ne payi hai shamaa mukti shraapon se</lines>
+    </verse>
+    <verse name="v5">
+      <lines>अब हम ना डरेंगे यीशु जओ सात है<br/>सेहतन से हम लड़ेंगे यीशु के नाम <br/>Ab hum naa darenge yeshu jo saat hai<br/>Shaitan se hum ladenge yeshu ke Naam se</lines>
+    </verse>
+  </lyrics>
+</song>

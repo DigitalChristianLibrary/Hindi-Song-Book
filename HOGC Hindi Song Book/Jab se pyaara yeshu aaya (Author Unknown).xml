@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2018-01-31T06:55:00">
+  <properties>
+    <titles>
+      <title>Jab se pyaara yeshu aaya</title>
+    </titles>
+    <authors>
+      <author>Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="HOGC Hindi Song"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>जब से प्यारा यीशु आया<br/>मेरा जीवन बदल बदल गया<br/>जब से मैने उसे पाया<br/>मेरा जीवन बदल बदल गया<br/>Jab se pyaara yeshu aaya<br/>Mera jeevan badal badal gaya<br/>Jab se maine oose paya<br/>Mera jeevan badal badal gaya</lines>
+    </verse>
+    <verse name="v2">
+      <lines>इस जहान की गंदगी से }<br/>मुझे छुडाया जान देकर } X 2<br/>मेरा दिल, मेरा मन, मेरी काया } X 2<br/>मेरा जीवन बदल बदल गया<br/>Is jahaan ki gandagi se }<br/>Mujhe chhudaaya jaan dekar }  X 2<br/>Mera dil mera mann, meri kaya } X 2<br/>Mera jeevan badal badal gaya</lines>
+    </verse>
+    <verse name="v3">
+      <lines>रात काली बीत गयी है, }<br/>हुआ सवेरा, सुबह तारा } X 2<br/>इस लिये मैने यह गीत गाया } X 2<br/>मेरा जीवन बदल बदल गया<br/>Raat kaali beet gayi hai }<br/>Huva savera, subah tara } X 2<br/>Is liye maine yeh geet gaya } X 2<br/>Mera jeevan badal badal gaya</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2018-01-31T06:54:55">
+  <properties>
+    <titles>
+      <title>Aaradhana ho aaradhana</title>
+    </titles>
+    <authors>
+      <author>Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="HOGC Hindi Song"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>आराधना हो आराधना<br/>खुदावंद यीशु की आराधना X 2<br/> <br/>Aaradhana ho aaradhana<br/>Khudavant yeshu ki aaradhana X 2</lines>
+    </verse>
+    <verse name="v2">
+      <lines>मुक्तिदाता की आराधना<br/>शांतिदाता की आराधना X 2<br/> <br/>Mukti daata ki aaradhana<br/>Shanti daata ki aaradhana X 2</lines>
+    </verse>
+    <verse name="v3">
+      <lines>प्रेमी येशु की आराधना<br/>मेरे मसीहा की आराधना X 2<br/> <br/>Premi yeshu ki aaradhana<br/>Mere masiha ki aaradhana X 2</lines>
+    </verse>
+    <verse name="v4">
+      <lines>अल्फ़ा ओमेगा की आराधना<br/>मेरे येशु की आराधना X 2<br/> <br/>Alpha omega ki aaradhana<br/>Mere yeshu ki aaradhana X 2</lines>
+    </verse>
+    <verse name="v5">
+      <lines>यहोवा निस्सी की आराधना<br/>यहोवा रोफ़े की आराधना X 2<br/> <br/>Yehova nissi ki aaradhana<br/>Yehova rofe ki aaradhana  X 2</lines>
+    </verse>
+  </lyrics>
+</song>

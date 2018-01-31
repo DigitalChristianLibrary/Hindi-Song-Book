@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2018-01-31T06:54:56">
+  <properties>
+    <titles>
+      <title>Apne Ghutno Pe Mein Aa Kar</title>
+    </titles>
+    <authors>
+      <author>Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="HOGC Hindi Song"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>अपने घुटनों पे मैं आकर <br/>Apne Ghutno Pe Mein Aa Kar</lines>
+    </verse>
+    <verse name="v2">
+      <lines>अपने घुटनों पे मैं आकर <br/>और नमरता में आकर<br/>झुकता हूँ प्रभु तेरे सामने <br/> <br/>Apne Ghutno Pe Main Aa Kar<br/>Aur Namrata Mein Aa Kar<br/>Jhukta Hoon Prabhu Tere Samne</lines>
+    </verse>
+    <verse name="v3">
+      <lines>अपने हाथों को उठाऊँ <br/>नया प्यार मैं बनाऊ <br/>करूँ आत्मा में प्राथना <br/>करूँ सत्य में प्राथना  X 2<br/>जीवन को मेरे प्रभु अपनी स्तुति बना <br/> <br/>Apne Hatho Ko Uthaoon<br/>Naya Pyar Main Banaoon<br/>Karoon Aatma Mein Prathana<br/>Karoon Satya Mein Prathana X 2<br/>Jeevan Ko Mere Prabhu Apni Stuti Bana</lines>
+    </verse>
+    <verse name="v4">
+      <lines>अपने घुटनों पे हम आकर <br/>और नमरता में आकर<br/>झुकते हैं प्रभु तेरे सामने <br/> <br/>Apne Ghutno Pe Hum Aakar<br/>Aur Namrata Mein Aakar<br/>Jhukte Hain Prabhu Tere Samne</lines>
+    </verse>
+    <verse name="v5">
+      <lines>अपने हाथों को हम उठायें <br/>नया प्यार  हम बनाएं <br/>करें आत्मा में प्राथना <br/>करें सत्य में प्राथना  X 2<br/>जीवन को हमारे प्रभु अपनी स्तुति बना <br/> <br/>Apne Hatho Ko Uthayein<br/>Naya Pyar Hum Banayein<br/>Karein Aatma Mein Prathana<br/>Karein Satya Mein Prathana<br/>Jeevan Ko Hamare Prabhu Apni Stuti Bana</lines>
+    </verse>
+  </lyrics>
+</song>

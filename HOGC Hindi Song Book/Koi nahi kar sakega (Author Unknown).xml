@@ -1,0 +1,41 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2018-01-31T06:55:00">
+  <properties>
+    <titles>
+      <title>Koi nahi kar sakega</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4 v5 v6 v4 v7 v4</verseOrder>
+    <authors>
+      <author>Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="HOGC Hindi Song"/>
+    </songbooks>
+  </properties>
+  <format>
+    <tags application="OpenLP"/>
+  </format>
+  <lyrics>
+    <verse name="v1">
+      <lines>Koi nahi kar sakega</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Dhim ta dhim ta nana, dhim ta tire tana<br/>Dhim ta dhim ta nana, dhim tire na <tag name="2"/><br/>धिम ता धिम ता ननं, धिम ता तीरे ताना <br/>धिम ता धिम ता ननं, धिम तीरे ना  (2)</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Koi nahi kar sakega<br/>Tere pyar se mujhko alag<br/>Koyi nahi de sakega<br/>Aisa pyar tera bina<br/>कोई नहीं कर सकेगा <br/>तेरे प्यार से मुझको अलग <br/>कोई नहीं दे सकेगा <br/>ऐसा प्यार तेरे बिना</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Koi nahi, koyi nahi...  tera bina      <tag name="2"/><br/>कोई नहीं कोई नहीं.....तेरे बिना (२)</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Chaahe chode mujhko zamaaana<br/>Chaahe chode mujhko mere apne<br/>Phir bhi tu nahi chode mera saath<br/>चाहे छोड़े मुझको जमाना <br/>चाहे छोड़े मुझको मेरे अपने <br/>फिर भी तु नहीं छोड़े मेरा साथ</lines>
+    </verse>
+    <verse name="v6">
+      <lines>Main jaaoo sagar se gehra<br/>Ud jaaoo ambar se oncha<br/>Phir bhi tujhe main paaoo mere saath<br/>मैं जाऊं सागर से गेहरा <br/>उड़ जाऊं अम्बर से ऊँचा <br/>फिर भी तुझे मैं पाऊँ मेरे साथ</lines>
+    </verse>
+    <verse name="v7">
+      <lines>Naa jeevan, naa Mrithyu<br/>Naa Swarg dooth, naa shaitaan<br/>Naa warthman, naa bhavishya<br/>Naa oonchaai, naa gehrai<br/>ना जीवन ना मृत्यु <br/>ना स्वर्ग दूत ना शैतान <br/>ना वर्तमान ना भविष्य <br/>ना ऊँचाई ना गहराई</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2018-01-31T06:55:05">
+  <properties>
+    <titles>
+      <title>Tu mera sharan sthan</title>
+    </titles>
+    <authors>
+      <author>Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="HOGC Hindi Song"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>तु मेरा शरण स्थान <br/>Tu mera sharan sthan</lines>
+    </verse>
+    <verse name="v2">
+      <lines>तु मेरा शरण स्थान <br/>तु मेरा घड है <br/>संकट मेरा दोस्त <br/>मेरा प्रभु   X 2<br/> <br/>Tu mera sharan sthan<br/>Tu mera gadh hai<br/>Sankat mein mera dost<br/>Mera prabhu  X 2</lines>
+    </verse>
+    <verse name="v3">
+      <lines>आराधना करूँ मैं पुरे दिल से <br/>मैं तुझे दूंदूंगा सम्पूर्ण जीवन में <br/>तेरी सेवा करूँगा तन मन और धन से <br/> <br/>Aradhna karu mein pure dil se<br/>Mein tuje dundunga sampuran jevan mein<br/>Teri seva karunga tan man aur dhan se</lines>
+    </verse>
+    <verse name="v4">
+      <lines>मैं हूँ यहाँ X 2<br/>मैं हूँ यहाँ, प्रभु  X 2<br/>मैं हूँ यहाँ  X 2<br/>  <br/>Mein hun yahan X 2<br/>Mein hun yahan, prabhu X 2<br/>Mein hun yahan</lines>
+    </verse>
+    <verse name="v5">
+      <lines>उधारक मेरा तु <br/>मेरी चंगाई है <br/>संकट में मेरा स्थान <br/>मेरा प्रभु  X 2<br/> <br/>Udharak mera tu<br/>Meri changai hai<br/>Sankat mein samarth hai<br/>Mera prabhu X 2<br/> <br/>तु मेरा चरवाहा <br/>सांत्वना है मेरा <br/>छुपने का स्थान है <br/>मेरा प्रभु  X 2<br/>  <br/>Tu mera charvaha<br/>Santvana hai mera<br/>Chupneka stan hai<br/>Mera prabhu X 2</lines>
+    </verse>
+  </lyrics>
+</song>

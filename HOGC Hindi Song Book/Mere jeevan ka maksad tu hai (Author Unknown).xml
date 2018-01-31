@@ -1,0 +1,34 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2018-01-31T06:55:07">
+  <properties>
+    <titles>
+      <title>Mere jeevan ka maksad tu hai</title>
+    </titles>
+    <authors>
+      <author>Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="HOGC Hindi Song"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>मेरे जीवन का मकसद तू है<br/>Mere jeevan ka maksad tu hai</lines>
+    </verse>
+    <verse name="v2">
+      <lines>मेरे जीवन का मकसद तू है<br/>मेरे जीने का कारण तू है<br/>मैं जीयूँ या मरूँ, वो तेरे लिये<br/>तू मेरा प्रभु<br/> <br/>Mere jeevan ka maksad tu hai<br/>Mere jeene ka kaaran tu hai<br/>Main jeeyun ya maroon, wo tere liye hai<br/>Tu mera prabhu</lines>
+    </verse>
+    <verse name="v3">
+      <lines>पिछला सब भूलकर, <br/>मैं आगे दौड़ा चलूँ<br/>जो मेरे लिये धन था, <br/>उसको मैं त्याग दूँ<br/>कि मैं पाऊँ उससे पुरस्कार, <br/>दौड़ा मैं जाऊँ<br/> <br/>Pichhla sab bhool kar, <br/>Main aage dauda chalu<br/>Jo mere liye dhan hai, <br/>Usko main tyag doo<br/>Ki mai paaon usse puraskar, <br/>Dauda main jaaon</lines>
+    </verse>
+    <verse name="v4">
+      <lines>मैं जीयूँ या मरूँ, <br/>वो तेरे लिये<br/>तू मेरा प्रभु<br/> <br/>Main jeeyun ya maroon, <br/>wo tere liye hai<br/>Tu mera prabhu</lines>
+    </verse>
+    <verse name="v5">
+      <lines>मुझ पर है कृपा, <br/>बेकार ना जाने दूँ<br/>जिसने मुझे चुना, <br/>उसकी और मैं बढ़ूँ<br/>देखूँ तेरी सलीब पर, <br/>खिंचा मैं जाऊँ<br/> <br/>Mujh par hai kripa, <br/>Bekar na jaane doo<br/>Jisne mujhe chuna, <br/>Uski aur mei badhoo<br/>Dekhu teri salib par, <br/>Khicha mei jaao</lines>
+    </verse>
+    <verse name="v6">
+      <lines>मैं जीयूँ या मरूँ, <br/>वो तेरे लिये<br/>तू मेरा प्रभु<br/> <br/>Main jeeyun ya maroon, <br/>wo tere liye hai<br/>Tu mera prabhu</lines>
+    </verse>
+  </lyrics>
+</song>

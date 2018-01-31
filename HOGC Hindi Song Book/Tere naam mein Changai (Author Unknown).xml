@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2018-01-31T06:55:04">
+  <properties>
+    <titles>
+      <title>Tere naam mein Changai</title>
+    </titles>
+    <authors>
+      <author>Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="HOGC Hindi Song"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Tere naam mein Changai<br/>Tere naam mein Rehai<br/>Tere naam mein Bhalai<br/>Tere naam ki Duhai<br/> <br/>तेरे नाम मैं चंगाई <br/>तेरे नाम मैं रिहाई <br/>तेरे नाम मैं भलाई <br/>तेरे नाम की दुहाई</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Tera naam hai sab naamo mein paak<br/>Tere naam mein hum paatey hai raza<br/> <br/>तेरा नाम है सब नामो मैं पाक <br/>तेरे नाम मैं हम पाते है रज़ा</lines>
+    </verse>
+    <verse name="v3">
+      <lines>YESHUA YESHUA (X2)<br/>येशुआ येशुआ  (X2)</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Tere naam mein Ameeri<br/>Tere naam mein hai Kushi<br/>Tere naam mein Salamati<br/>Tere naam ki ho Stuti<br/> <br/>तेरे नाम मैं अमीरी <br/>तेरे नाम मैं है ख़ुशी <br/>तेरे नाम मैं सलामती <br/>तेरे नाम की हो स्तुति</lines>
+    </verse>
+  </lyrics>
+</song>

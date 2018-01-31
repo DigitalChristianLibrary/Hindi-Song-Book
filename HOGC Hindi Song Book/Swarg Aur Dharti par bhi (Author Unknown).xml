@@ -1,0 +1,40 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2018-01-31T06:55:04">
+  <properties>
+    <titles>
+      <title>Swarg Aur Dharti par bhi</title>
+    </titles>
+    <authors>
+      <author>Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="HOGC Hindi Song"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Swarg Aur Dharti par bhi<br/>स्वर्ग और धरती पर भी</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Swarg aur dharti par bhi<br/>Aur koi naam nahi<br/>Sirf yeshu masih..<br/> <br/>स्वर्ग और धरती पर भी<br/>और कोई नाम नहीं <br/>सिर्फ येशु मसीह ...</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Pyasa dil dhoonde kahin<br/>Mujhko mile shaanti<br/>sirf yeshu masih<br/> <br/>प्यासा दिल ढूंढे कहीं <br/>मुझको मिले शांति <br/>सिर्फ येशु मसीह</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Saaraa aadhar<br/>Saaraa samarth<br/>Saari mahima<br/>Bas ek naam mein hai<br/> <br/>सारा आधर <br/>सारा सामर्थ <br/>सारी महिमा <br/>बस एक नाम में है</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Ghootne tikte hai<br/>Sar bhi jhukte hai<br/>Bas ek naam ke aage<br/> <br/>घुटने टिकते हैं <br/>सर भी झुकते हैं <br/>बस एक नाम के आगे</lines>
+    </verse>
+    <verse name="v6">
+      <lines>Yeshua...Aur koi koi nahin<br/>येशुआ...और कोई कोई नहीं</lines>
+    </verse>
+    <verse name="v7">
+      <lines>Aisa Samarth hai kahan<br/>Jo badal de zindagi<br/>Sirf yeshu masih<br/> <br/>ऐसा सामर्थ है कहां <br/>जो बदल दे ज़िन्दगी <br/>सिर्फ येशु मसीह</lines>
+    </verse>
+    <verse name="v8">
+      <lines>Toote hare paapi<br/>Ban jaaye nayi shrishti<br/>Sirf yeshu masih<br/> <br/>टूटे हारे पापी <br/>बन जाएं नयी श्रुष्टि <br/>सिर्फ येशु मसीह</lines>
+    </verse>
+  </lyrics>
+</song>

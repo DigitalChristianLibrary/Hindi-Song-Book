@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2018-01-31T06:54:55">
+  <properties>
+    <titles>
+      <title>Aaradhana, hum karte hai</title>
+    </titles>
+    <authors>
+      <author>Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="HOGC Hindi Song"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>आराधना, हम करते है <br/>पुरे दिल और मन से <br/>तेरी महिमा गाते हैं <br/> <br/>Aaradhana, hum karte hai<br/>Pure dil aur maan se<br/>Teri mahima gaate hai</lines>
+    </verse>
+    <verse name="v2">
+      <lines>और हम कहते है,<br/>दिल से जेखते हैं<br/>हम कहते हैं ....<br/>   <br/>Aur hum kahte hai, <br/>Dil se kahte hai<br/>Hum kahte hai…..</lines>
+    </verse>
+    <verse name="v3">
+      <lines>आ प्रभु येशु आ <br/>मुहमें हो तेरी महिमा <br/> <br/>Aa prabhu yeshu aa, <br/>Mujme ho teri mahima</lines>
+    </verse>
+    <verse name="v4">
+      <lines>तेरे भवन में, हम आते हैं <br/>सारा आधर हम, तुझको देते हैं <br/> <br/>Tere bhavan me, hum aate hai<br/>Sara aadar hum, tujko dete hai</lines>
+    </verse>
+    <verse name="v5">
+      <lines>और हम कहते है,<br/>दिल से जेखते हैं<br/>हम कहते हैं ....<br/>   <br/>Aur hum kahte hai, <br/>Dil se kahte hai<br/>Hum kahte hai…..</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2018-01-31T06:54:56">
+  <properties>
+    <titles>
+      <title>Apne haath utha kar</title>
+    </titles>
+    <authors>
+      <author>Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="HOGC Hindi Song"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>अपने हाथ उठा कर<br/>Apne haath utha kar</lines>
+    </verse>
+    <verse name="v2">
+      <lines>अपने हाथ उठा कर <br/>होटों पे स्तुति ले कर  <br/>धन्यवाद देने, <br/>प्रभु मै आया हूँ <br/> <br/>Apne haath utha kar<br/>Hothon pe stuti le kar<br/>Dhanyawaad dene, <br/>Prahu mai aaya hun</lines>
+    </verse>
+    <verse name="v3">
+      <lines>प्रभु मै आया हूँ - २  <br/>धन्यवाद देने, <br/>प्रभु मै आया हूँ <br/> <br/>Prabhu mai aaya hun - 2<br/>Dhanyawaan dene <br/>Prabhu mai aaya hum</lines>
+    </verse>
+    <verse name="v4">
+      <lines>अपने हाथ उठा कर <br/>होटों पे स्तुति ले कर  <br/>धन्यवाद देने<br/>प्रभु हम आये हैं <br/>  <br/>Apne haath utha kar<br/>Hoto pe stuti le kar<br/>Dhanyawaad dene <br/>Prabhu hum aaye hai</lines>
+    </verse>
+    <verse name="v5">
+      <lines>प्रभु हम आये हैं   - २  <br/>धन्यवाद देने, <br/>प्रभु हम आये हैं  <br/>  <br/>Prabhu hum aaye hai - 2<br/>Dhanyawaad dene <br/>Prabhu hum aaye hain</lines>
+    </verse>
+  </lyrics>
+</song>

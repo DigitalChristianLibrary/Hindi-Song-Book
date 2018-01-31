@@ -1,0 +1,37 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2018-01-31T06:54:56">
+  <properties>
+    <titles>
+      <title>Anand hi anand hai</title>
+    </titles>
+    <authors>
+      <author>Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="HOGC Hindi Song"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>आनंद ही आनंद है <br/>मेरे येशु के चरणों में <br/> <br/>Anand hi anand hai  <br/>Mere yeshu ke charno mein</lines>
+    </verse>
+    <verse name="v2">
+      <lines>पाप मेरा क्षमा हुआ <br/>शराप मेरा निकल गया <br/>येशु के रक्त द्वारा <br/> <br/>Paap mera kshama hua,<br/>Shraap mera nikal gaya  <br/>Yeshu ke rakht dwaara</lines>
+    </verse>
+    <verse name="v3">
+      <lines>नया जीवन येशु में <br/>कृपा जीवन येशु में <br/>पवित्र आत्मा द्वारा <br/> <br/>Naya jeevan Yeshu mein<br/>Krupa jeevan yeshu mein <br/>Pavitra aatma dwaara</lines>
+    </verse>
+    <verse name="v4">
+      <lines>बाहे की शब्द में <br/>दूतों की सेना में <br/>आएगा येशु राजा <br/> <br/>Baje ke shabd mein,<br/>Duton ke sena mein<br/>Aayega Yeshu raja</lines>
+    </verse>
+    <verse name="v5">
+      <lines>क्षण मात्र में हम <br/>रूपान्तर होकर <br/>महिमा में गायेंगे <br/> <br/>Kshan matra mein hum,<br/>Roopantar hokar <br/>Mahima mein jayenge</lines>
+    </verse>
+    <verse name="v6">
+      <lines>सर्व शक्ति येशु <br/>विजय का दाता <br/>जय देने वाला है  <br/> <br/>Sarv shakti Yeshu,<br/>Vijay ka data   <br/>Jai denewala hai</lines>
+    </verse>
+    <verse name="v7">
+      <lines>एकान्त से हम <br/>होसाना गाकर <br/>सब को बतायेंगे<br/>  <br/>Ek kanth se hum,<br/>hosanna gakar <br/>Sab ko batayenge</lines>
+    </verse>
+  </lyrics>
+</song>

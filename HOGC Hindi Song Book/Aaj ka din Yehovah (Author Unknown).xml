@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2018-01-31T06:54:55">
+  <properties>
+    <titles>
+      <title>Aaj ka din Yehovah</title>
+    </titles>
+    <authors>
+      <author>Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="HOGC Hindi Song"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>आज का दिन यहोवा ने बनाया है <br/>हम उसमें आनंदित हो, आनंदित हो<br/> <br/>Aaj ka din Yehovah ne banaya hai<br/>Hum usme aanandith ho, aanandith ho</lines>
+    </verse>
+    <verse name="v2">
+      <lines>येशु को महिमा मिले <br/>चाहे हो मेरा अपमान <br/>वो बड़े मैं घटुन <br/>रहे इसी का ध्यान <br/>  <br/>Yeshu ko mahima mile<br/>Chahe ho mera apmaan<br/>Woh bade aur main ghatun<br/>Rahe isika dhyan</lines>
+    </verse>
+    <verse name="v3">
+      <lines>आज का दिन यहोवा ने बनाया है <br/>हम उसमें आनंदित हो, आनंदित हो<br/> <br/>Aaj ka din Yehovah ne banaya hai<br/>Hum usme aanandith ho, aanandith ho</lines>
+    </verse>
+  </lyrics>
+</song>

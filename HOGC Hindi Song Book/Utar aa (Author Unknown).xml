@@ -1,0 +1,34 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2018-01-31T06:55:07">
+  <properties>
+    <titles>
+      <title>Utar aa</title>
+    </titles>
+    <authors>
+      <author>Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="HOGC Hindi Song"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>उतर आ / Utar aa</lines>
+    </verse>
+    <verse name="v2">
+      <lines>उतर आ, उतर आ, उतर आ<br/>ऐ रूह-ए-पाक उतर आ<br/>  <br/>Utar aa, Utar aa, Utar aa<br/>Ae Ruhe paak Utar aa</lines>
+    </verse>
+    <verse name="v3">
+      <lines>आसमानी खुशी से भर दे मुझको<br/>गीत नया दिल में ला<br/>  <br/>Aasmani Khushi Se Bhar De Mujhko<br/>Geet Naya Dil Me la</lines>
+    </verse>
+    <verse name="v4">
+      <lines>अमृत जल प्रभु मुझको पिला दे<br/>दिल मेरे की प्यास बुझा दे<br/>चश्मा बन के उतर आ…<br/> <br/>Amrit Jal Prabhu Mujhko Pila De<br/>Dil Mere Ki Pyas Bhujha De<br/>Chashma Ban Ke utar aa…</lines>
+    </verse>
+    <verse name="v5">
+      <lines>आसमानी रोटी मुझको खिला दे<br/>कमजोर दिल को तगड़ा बना दे<br/>भरपूर जीवन दिला…<br/> <br/>Aasmani Roti Mujhko Khilade<br/>Kamzor Dil Ko Tagda Banade<br/>Bharpur jeevan dila</lines>
+    </verse>
+    <verse name="v6">
+      <lines>पाक रूह आ मेरे दिल के अंदर<br/>बन जाऊँ मैं तेरा मंदिर<br/>अपनी राह दिखा…<br/> <br/>Pak Rooh Aa Mere Dil Ke Andar<br/>Banjau Mein Tera Mandir<br/>Apni Raha Dikha, Dikha</lines>
+    </verse>
+  </lyrics>
+</song>

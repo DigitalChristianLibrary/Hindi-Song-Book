@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2018-01-31T06:55:03">
+  <properties>
+    <titles>
+      <title>Prabhu tera pyaar</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v2</verseOrder>
+    <authors>
+      <author>Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="HOGC Hindi Song"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>प्रभु तेरा प्यार<br/>Prabhu tera pyaar</lines>
+    </verse>
+    <verse name="v2">
+      <lines>प्रभु तेरा प्यार सागर से भी गहरा<br/>तू है महान आसमानों से भी ऊँचा<br/>तेरे विचार सागर की रेत से ज्यादा<br/>प्रभु तेरा दिल स्रष्टि से भी है बड़ा<br/>Prabhu tera pyaar sagar se bhi gehra<br/>Tu hai mahaan aasmano se bhi uncha<br/>Tere vichaar saagar ki rate se zyada<br/>Prabhu tera dil srushti se bhi hai bada</lines>
+    </verse>
+    <verse name="v3">
+      <lines>प्रभु मै तुझसे प्यार करूँ - २<br/>तेरी आराधना मै करूँ  -  आराधना<br/>प्रभु तू ही है महान<br/>तू है महान<br/>सिर्फ तू और कोई नहीं <br/>Prabhu mai tujh se pyar karoo - 2<br/>Teri aaradhna mai karoo - aaradhna<br/>Prabhu tu hi hai mahaan -<br/>Tu hai mahaan<br/>Sirf tu aur koi nahi</lines>
+    </verse>
+  </lyrics>
+</song>

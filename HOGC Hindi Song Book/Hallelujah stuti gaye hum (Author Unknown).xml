@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2018-01-31T06:54:59">
+  <properties>
+    <titles>
+      <title>Hallelujah stuti gaye hum</title>
+    </titles>
+    <authors>
+      <author>Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="HOGC Hindi Song"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>हालेलूया स्तुति गाए हम }<br/>यीशु  की स्तुति गाए हम }<br/>हा ... हालेलूया हालेलूया हालेलूया } X 2<br/>Hallelujah stuti gaye hum }<br/>Yeshu ki stuti gaye hum } X 2<br/>Ha..Hallelujah hallelujah hallelujah } X2</lines>
+    </verse>
+    <verse name="v2">
+      <lines>यीशु  के पास आओ<br/>और मुक्ति को अपनाओ } X 2<br/>आशीष  वह देगा }<br/>साथ अपने लेगा }<br/>कभी नही छोड़ेगा } X 2<br/>Yeshu ke paas aao }<br/>Aur mukti ko apnaao } X 2<br/>Aashish woh dega, }<br/>Saath apne lega }<br/>Kabhi nahin chhodega } X 2</lines>
+    </verse>
+    <verse name="v3">
+      <lines>क्रूस पर जीवन दिया }<br/>और रक्त भी बहाया } X 2<br/>पापों को मिटा के, पवित्र करके }<br/>मुक्ति भी दिया है } X 2<br/>Krus par jeevan diya }<br/>Aur rakt bhi bahaaya } X 2<br/>Paapon ko mitake, pavitra karke }<br/>Mukti bhi diya hai } X 2</lines>
+    </verse>
+    <verse name="v4">
+      <lines>सदा मै स्तुति करूँगा }<br/>और सदा तुझे याद करूँगा } X 2<br/>पवित्र आत्मा से भरपूर होकर }<br/>तेरे लिए जीऊँगा } X 2<br/>Sadaa main stuti karoonga }<br/>Aur sada tujhe yaad karoonga } X 2<br/>Pavitra Aatma se bharpur hokar }<br/>Tere liye jeeoonga } X 2</lines>
+    </verse>
+  </lyrics>
+</song>

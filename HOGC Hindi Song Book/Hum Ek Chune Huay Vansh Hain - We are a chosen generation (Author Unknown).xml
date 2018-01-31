@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2018-01-31T06:54:59">
+  <properties>
+    <titles>
+      <title>Hum Ek Chune Huay Vansh Hain - We are a chosen generation</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4 v5 v6 v5</verseOrder>
+    <authors>
+      <author>Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="HOGC Hindi Song"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Hum Ek Chune Huay Vansh Hain<br/>हम एक चुने हुवे वंश हैं</lines>
+    </verse>
+    <verse name="v2">
+      <lines>हम एक चुने हुवे वंश हैं <br/>राजकीय याजक पवित्र राष्ट्र <br/>एक लोग जो अलग हैं <br/>जो दिखाएँ प्रभु की महिमा <br/>Hum Ek Chune Huay Vansh Hain <br/>Rajkiya yajak pavitra rashtra<br/>Ek log jo alag hai<br/>Jo dikhaye prabhu ki mahima</lines>
+    </verse>
+    <verse name="v3">
+      <lines>जिसने बुलाया है अंधकार से <br/>अंधकार से,  अंधकार से <br/>अपनी महिमा की ज्योति में <br/>Jisne bulaaya hai andhakar say<br/>Andhakar say, Andhakar say<br/>Apni mahima ki jyoti main x 2</lines>
+    </verse>
+    <verse name="v4">
+      <lines>For we are a chosen generation<br/>A royal priest hood<br/>A holy nation<br/>A peculiar people <br/>Who will show forth the praises of Him<br/>अ रॉयल प्रिस्ट हुड <br/>अ होली नेशन <br/>अ पेकयुलियर पीपल <br/>हु विल शो फोर्थ द प्रैजेज़ ऑफ़ हिम</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Who has called us out of darkness<br/>Out of darkness<br/>Into his marvelous light<br/>Into his marvelous light<br/>फ़ॉर वी आर अ चोसन जेनेरेशन <br/>हु हैस काल्ड अस आउट ऑफ़ डार्कनेस <br/>आउट ऑफ़ डार्कनेस <br/>इन्टू हिज़ मार्वलस लाइट <br/>इन्टू हिज़ मार्वलस लाइट</lines>
+    </verse>
+    <verse name="v6">
+      <lines>Sing Hallelujah, Praise to the Lord<br/>Sing Hallelujah<br/>And show forth the praises of him<br/>सिंग हालेलुयाह, प्रेज़ टू द लॉर्ड <br/>सिंग हालेलुयाह <br/>एंड शो फोर्थ द प्रेजेज़ ऑफ़ हिम</lines>
+    </verse>
+  </lyrics>
+</song>

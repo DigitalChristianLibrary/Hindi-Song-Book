@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2018-01-31T06:55:09">
+  <properties>
+    <titles>
+      <title>senao ka yehova hamare sang hei</title>
+    </titles>
+    <authors>
+      <author>Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="HOGC Hindi Song"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>सेनाओं  का यहोवा हमारे संग संग है <br/>याकूब का परमेशवर हमारा ऊँचा घड है <br/> <br/>Senao ka Yahowa hamare sang sang hei<br/>Yakub ka Parmeshwar hamara ooncha gadh hei</lines>
+    </verse>
+    <verse name="v2">
+      <lines>जिसने आकाश बनाया <br/>जिसने पृथ्वी बनायी <br/>जो सर्व शक्तिमान प्रभु है <br/>वह यहोवा हमारे संग संग है <br/> <br/>Jisne akash banaya<br/>jisne prithwai banayi<br/>Jo sarvashaktiman Prabhu hei<br/>woh Yahowa hamare sang sang hei</lines>
+    </verse>
+    <verse name="v3">
+      <lines>समुद्र को जिसने दो भागा <br/>जंगल में से मार्ग को निकला <br/>जो वायदे को करता है पूरा <br/>वह यहोवा हमारे संग संग है <br/> <br/>Samudra ko jisne dobhaga<br/>Jangal se marg hei nikala<br/>Jo wayde ko karta hei poora<br/>woh Yahowa hamare sang sang hei</lines>
+    </verse>
+    <verse name="v4">
+      <lines>लाजर को जिसने  जिलाया <br/>ज्कई को जिसने बचाया <br/>जिसके लिए है सबकुछ संभव <br/>वह यहोवा हमारे संग संग है <br/> <br/>Lazar ko jisne jilaya<br/>Zakai ko jisne bachaya<br/>jiske liye hei sabkuch sambhav <br/>woh Yahowa hamare sang sang hei</lines>
+    </verse>
+  </lyrics>
+</song>

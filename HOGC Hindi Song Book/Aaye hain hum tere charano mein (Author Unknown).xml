@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2018-01-31T06:54:56">
+  <properties>
+    <titles>
+      <title>Aaye hain hum tere charano mein</title>
+    </titles>
+    <authors>
+      <author>Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="HOGC Hindi Song"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>आए हैं हम तेरे चरणो में }<br/>लेकर हम स्तुति } X 3<br/>हालेलूया X 4<br/>Aaye hain hum tere charano mein }<br/>Lekar hum stuti }<br/>Hallelujah X 4</lines>
+    </verse>
+    <verse name="v2">
+      <lines>प्यारे मसीहा आशीष दे हमें }<br/>आत्मा से तू भर दे हमें } X 3<br/>हालेलूया X 4<br/>Pyare Masiha aashish de hume }<br/>Aatma se tu bhar de hume }<br/>Hallelujah X 4</lines>
+    </verse>
+    <verse name="v3">
+      <lines>अपने लहू से, धोले प्रभू हमें }<br/>आत्मा से तू भर दे हमें } X 3<br/>हालेलूया X 4<br/>Apne lahoo se, dhole Prabhu hume }<br/>Aatma se tu bhar de hame }<br/>Hallelujah X 4</lines>
+    </verse>
+    <verse name="v4">
+      <lines>हम बच्चे है परमपिता के }<br/>बढना है हमें वचनो में } X 3<br/>हालेलूया X 4<br/>Hum bachche hain, param pitaa ke }<br/>Budnaa hain hume vachano mein}<br/>Hallelujah X 4</lines>
+    </verse>
+  </lyrics>
+</song>

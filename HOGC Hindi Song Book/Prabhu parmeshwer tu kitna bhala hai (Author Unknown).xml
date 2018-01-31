@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2018-01-31T06:55:08">
+  <properties>
+    <titles>
+      <title>Prabhu parmeshwer tu kitna bhala hai</title>
+    </titles>
+    <authors>
+      <author>Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="HOGC Hindi Song"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>प्रभु परमेश्वेर तू कितना भला है<br/>तेरी भलाई सदा की है<br/>मेरा दिल तुझे धन्यवाद देता<br/>मेरा प्राण तुझे स्तुति देता<br/> <br/>Prabhu parmeshwer tu kitna bhala hai<br/>teri bhalai sada ki hai<br/>mera dil tujhe dhanyawad deta<br/>mera praan tujhe stuti deta</lines>
+    </verse>
+    <verse name="v2">
+      <lines>कठिन समय में, तू मज़बूत गढ़ है<br/>अँधेरी राह में, तू उजियाला है<br/>मेरी दोहाई तू सुनता<br/>मेरा प्रभु कभी नहीं सोता<br/>मेरा प्राण तुझे स्तुति देता<br/> <br/>kathin samay me, tu mazboot gadh hai<br/>andheri raah me, tu ujiyaala hai<br/>meri dohai tu sunta<br/>mera prabhu kabhi nahi sota<br/>mera praan tujhe stuti deta</lines>
+    </verse>
+    <verse name="v3">
+      <lines>तू कहता है नहीं छोडूंगा<br/>तू कहता है नहीं ठुकराऊंगा<br/>तेरा हाथ मेरी अगुवाई करता<br/>तेरा सामर्थ मुझे बल देता<br/>मेरा प्राण तुझे स्तुति देता<br/> <br/>tu kehta hai nahi chodunga<br/>tu kehta hai nahi thukraaunga<br/>tera haath meri aguaai kerta<br/>tera saamarth mujhe bal deta<br/>mera praan tujhe stuti deta</lines>
+    </verse>
+  </lyrics>
+</song>

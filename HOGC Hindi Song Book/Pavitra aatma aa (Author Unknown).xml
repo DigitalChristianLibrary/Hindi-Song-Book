@@ -1,0 +1,34 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2018-01-31T06:55:02">
+  <properties>
+    <titles>
+      <title>Pavitra aatma aa</title>
+    </titles>
+    <authors>
+      <author>Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="HOGC Hindi Song"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Pavitra aatma aa<br/>पवित्र आत्मा आ</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Pavitra aatma aa, Pavitra aatma aa<br/>Mujhe le jaao yeshu ke charno main,<br/>Pavitra aatma aa<br/>पवित्र आत्मा आ, पवित्र आत्मा आ<br/>मुझे ले जाओ येशु के चरणों में<br/>पवित्र आत्मा आ</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Sirf tere liye yeshu tere liye<br/>Sirf tere liye yeshu tere liye<br/>Sirf tere liye yeshu tere liye<br/>Main haath uthata hun<br/>सिर्फ तेरे लिए येशु तेरे लिए<br/>सिर्फ तेरे लिए येशु तेरे लिए<br/>सिर्फ तेरे लिए येशु तेरे लिए<br/>मै हाथ उठता हूँ</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Ghutne tika kar sar jhukar,<br/>Haath uthata tere liye - 2<br/>घुटने टिका कर सर झुका कर<br/>हाथ उठता तेरे लिए - २</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Sirf tere liye yeshu tere liye<br/>Sirf tere liye yeshu tere liye<br/>Sirf tere liye yeshu tere liye<br/>Main sir jhukata hun<br/>सिर्फ तेरे लिए येशु तेरे लिए<br/>सिर्फ तेरे लिए येशु तेरे लिए<br/>सिर्फ तेरे लिए येशु तेरे लिए<br/>मैं सर झुकाता हूँ</lines>
+    </verse>
+    <verse name="v6">
+      <lines>Yeshu hi marg hai<br/>Yeshu hi satya hai<br/>Yeshu hi jeewan hai,<br/>Yeshu mera prabhu<br/>येशु ही मार्ग है<br/>येशु ही सत्य है<br/>येशु ही जीवन है<br/>येशु मेरा प्रभु</lines>
+    </verse>
+  </lyrics>
+</song>

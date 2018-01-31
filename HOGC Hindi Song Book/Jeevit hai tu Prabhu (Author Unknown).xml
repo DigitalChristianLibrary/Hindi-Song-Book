@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2018-01-31T06:55:00">
+  <properties>
+    <titles>
+      <title>Jeevit hai tu Prabhu</title>
+    </titles>
+    <authors>
+      <author>Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="HOGC Hindi Song"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>जीवित है तू प्रभु<br/>यीशु है तेरा नाम<br/>जीवीत है तू प्रभु<br/>यीशु है तेरा नाम<br/>Jeevit hai tu Prabhu<br/>Yeshu hai tera naam<br/>Jeevit hai tu Prabhu<br/>Yeshu hai tera naam</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Aate hain tere paas mein }<br/>Hum pyaase hain Prabhu }<br/>Jeevan ka jal tu hi hai }<br/>Pyaas hamari bujha de }</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Aate hain tere paas mein }<br/>Hum bhookhe hain Prabhu }<br/>Jeevan ki roti tu hai }<br/>Bhookh hamari mitaa de }</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Likha hai toone vachan mein }<br/>Nahin chhode ga anaath }<br/>Pavitra aatma dekar }<br/>Jeevan hamara bhar de }</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2018-01-31T06:55:05">
+  <properties>
+    <titles>
+      <title>Tu he shanti ka raja hai</title>
+    </titles>
+    <authors>
+      <author>Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="HOGC Hindi Song"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>तु ही शांति का राजा है <br/>येशु मुक्ति का दाता है <br/>तेरी महिमा हम गायें सदा <br/>हालेलुयाह X 4<br/> <br/>Tu he shanti ka raja hai, <br/>Yeshu mukti ka data hai,<br/>Teri mahima hum gayein sada,<br/>Hallelujah  X 4</lines>
+    </verse>
+    <verse name="v2">
+      <lines>तेरे ही वचनों से <br/>हम को है जीना <br/>तेरी ही कदमों पे <br/>हम को है चलना <br/> <br/>Tere hi vachano se <br/>Hum ko hai jeena,<br/>Tere hi kadamo pe <br/>Hum ko hai chalana</lines>
+    </verse>
+    <verse name="v3">
+      <lines>तु ही राह दिखता है <br/>तु ही हमको चलाता है <br/>तेरी महिमा हम गायें सदा <br/>हालेलुयाह  X 4<br/>  <br/>Tu hi raah dikhata hai, <br/>Tu hi hum ko chalata hai,<br/>Teri mahima hum gayein sada,<br/>Hallelujah  X 4</lines>
+    </verse>
+    <verse name="v4">
+      <lines>कितनी महान है <br/>येशु तेरी करुणा <br/>तेरे ही बाहों में<br/>हम पाते है पनाह <br/> <br/>Kitani mahan hai, <br/>Yeshu teri karuna,<br/>Tere hi bahon me <br/>Hum pate hai panah,</lines>
+    </verse>
+    <verse name="v5">
+      <lines>तु ही जीवन देता है<br/>तु ही साथ निभाता है <br/>तेरी महिमा हम गायें सदा <br/>हालेलुयाह  X 4<br/> <br/>Tu hi jeevan deta hai, <br/>Tu hi saath nibhata hai<br/>Teri mahima hum gayen sada,<br/>Hallelujah  X 4</lines>
+    </verse>
+  </lyrics>
+</song>

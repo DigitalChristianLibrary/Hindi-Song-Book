@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2018-01-31T06:55:06">
+  <properties>
+    <titles>
+      <title>Yogya kewal tu</title>
+    </titles>
+    <authors>
+      <author>Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="HOGC Hindi Song"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Yogya kewal tu<br/>Yogya kewal tu<br/>Yogya kewal tu hi prabhu<br/>Mere prabhu Yeshu<br/> <br/>योग्य केवल तु<br/>योग्य केवल तु<br/>योग्य केवल तु ही प्रभु <br/>मेरे प्रभु येशु </lines>
+    </verse>
+    <verse name="v2">
+      <lines>Aadar aur mahima ho teri<br/>Aadar aur mahima ho teri<br/>Aadar aur mahima ho teri prabhu<br/>Mere prabhu Yeshu<br/> <br/>आदर और महिमा हो तेरी<br/>आदर और महिमा हो तेरी<br/>आदर और महिमा हो तेरी प्रभु <br/>मेरे प्रभु येशु</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Pavitra kewal tu<br/>Pavitra kewal tu<br/>Pavitra kewal tu hi prabhu<br/>Mere prabhu Yeshu<br/> <br/>पवित्र केवल तु <br/>पवित्र केवल तु <br/>पवित्र केवल तु ही प्रभु <br/>मेरे प्रभु येशु</lines>
+    </verse>
+  </lyrics>
+</song>

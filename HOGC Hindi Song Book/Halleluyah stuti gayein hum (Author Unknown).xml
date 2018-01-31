@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2018-01-31T06:55:02">
+  <properties>
+    <titles>
+      <title>Halleluyah stuti gayein hum</title>
+    </titles>
+    <authors>
+      <author>Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="HOGC Hindi Song"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>नारे लगाओ ओर गाओ रे }<br/>झंडा मसीह का फैलाओ रे }</lines>
+    </verse>
+    <verse name="v2">
+      <lines>हालेलूया ओ हालेलूया <br/>हालेलूया ओ हालेलूया } X 2</lines>
+    </verse>
+    <verse name="v3">
+      <lines>लम्बा सफर जिन्दगी का }<br/>सच्चाई कोई न जाने रे } X 2<br/>आँखें ऊपर को लगाओ }<br/>यीशु  के पास तुम आओ रे } X 2</lines>
+    </verse>
+    <verse name="v4">
+      <lines>जीवन से उल्झा हुआ राही }<br/>यीशु  के पास तुम आओ रे }<br/>गम की यह राहें सब छोड़ो }<br/>जिन्दगी में अब कुछ जोड़ो रे } X 2</lines>
+    </verse>
+    <verse name="v5">
+      <lines>यीशु  का मृत्यु हुआ है }<br/>पापों का अंत हुआ है } X 2<br/>खुशियाँ वह बाँट रहा है }<br/>प्रेम की धारा वही है } X 2</lines>
+    </verse>
+  </lyrics>
+</song>
